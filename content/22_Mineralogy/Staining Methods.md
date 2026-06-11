@@ -1,29 +1,29 @@
 
 | Solution                                    | Mineral                      | Color              |     |
 | ------------------------------------------- | ---------------------------- | ------------------ | --- |
-| **Alizarine Red S**                         | [[Calcite]]<br>[[Aragonite]] | Pink orange        |     |
-|                                             | [[Witherite]]                | Red                |     |
+| **Alizarine Red S**                         | [[calcite]]<br>[[aragonite]] | Pink orange        |     |
+|                                             | [[witherite]]                | Red                |     |
 |                                             | [[cerussite]]                | Mauve              |     |
-|                                             | [[Dolomite]]                 | -                  |     |
-| **Trypan blue**                             | [[Calcite]]                  | Dark blue          |     |
-|                                             | [[Dolomite]]                 | Pale blue          |     |
-| **Silver chromate**                         | [[Calcite]]<br>[[Aragonite]] | Red brown          |     |
+|                                             | [[dolomite]]                 | -                  |     |
+| **Trypan blue**                             | [[calcite]]                  | Dark blue          |     |
+|                                             | [[dolomite]]                 | Pale blue          |     |
+| **Silver chromate**                         | [[calcite]]<br>[[aragonite]] | Red brown          |     |
 | **Copper nitrate**                          | Calcite                      | Green/bluish green |     |
 | **Cobalt nitrate**                          | Aragonite                    | Lilac-purple       |     |
 | **Harris Hematoxillin**                     | Calcite                      | Lilac              |     |
 | **Meigen**                                  | Aragonite                    | Purple             |     |
 |                                             | Calcite                      | -                  |     |
-| **Rhodizonic Acid**                         | [[Witherite]]                | Orange/red         |     |
+| **Rhodizonic Acid**                         | [[witherite]]                | Orange/red         |     |
 |                                             | Calcite                      | -                  |     |
-| **Tropaeolin**                              | [[Smithsonite]]              | Yellow             |     |
-|                                             | [[Magnesite]]                | -                  |     |
+| **Tropaeolin**                              | [[smithsonite]]              | Yellow             |     |
+|                                             | [[magnesite]]                | -                  |     |
 | **Hydrogen Peroxide - Potassium Hydroxide** | Ankerite                     | Orange             |     |
 |                                             | Siderite                     | Brown              |     |
 | **Lemberg hydroxide**                       | Calcite                      | Pale brown         |     |
 | **Benzidene**                               | Rhodochrosite                | Blue               |     |
-| **Potassium ferricyanide**                  | [[Anhydrite]]/[[Gypsum]]     | Yellow             |     |
-|                                             | [[Rhodochrosite]]            | Pale brown         |     |
-|                                             | [[Dolomite]]                 | Blue               |     |
+| **Potassium ferricyanide**                  | [[anhydrite]]/[[gypsum]]     | Yellow             |     |
+|                                             | [[rhodochrosite]]            | Pale brown         |     |
+|                                             | [[dolomite]]                 | Blue               |     |
 | **Organic Dye Titan Yellow**                | Dolomite                     | Dark orange red    |     |
 | **Organic Dye Eosin Y**                     | Dolomite                     | Dark pink          |     |
 | **Organic Dye Congo Red**                   | Dolomite                     | Red                |     |

@@ -9,12 +9,12 @@ aliases:
 | Silicate Structure                                            | Si:O ratio                         | shared $O_2$ | Name             | Minerals                             |                                           | Common Crystal Systems                                                                                          |
 | ------------------------------------------------------------- | ---------------------------------- | ------------ | ---------------- | ------------------------------------ | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
 | **[[#Nesosilicates (orthosilicates)]]**                       | 1:4                                | 0            | island           | [[kyanite]], [[garnet]], [[olivine]] | ![[diagram nesosilicates.png\|100]]       | All                                                                                                             |
-| **[[#Sorosilicates\|Sorosilicates]]**                         | 2:7                                | 1            | paired silicates | [[Epidote]] group                        | ![[diagram sorosilicates.png\|100]]       | [[Orthorhombic System\|Orthorhombic]]<br>[[Tetragonal System\|Tetragonal]]<br>[[Monoclinic System\|Monoclinic]] |
+| **[[#Sorosilicates\|Sorosilicates]]**                         | 2:7                                | 1            | paired silicates | [[epidote]] group                        | ![[diagram sorosilicates.png\|100]]       | [[Orthorhombic System\|Orthorhombic]]<br>[[Tetragonal System\|Tetragonal]]<br>[[Monoclinic System\|Monoclinic]] |
 | **[[#3-member single ring\|Cyclosilicates]]**                 | 1:3 single ring<br>2:5 double ring | 2            | ring             | [[beryl]] (emerald), tourmaline      | ![[diagram cyclosilicates.png\|100]]      | missing: triclinic and isometric                                                                                |
 | **[[#Single-Chain Inosilicates - Pyroxenes\|Inosilicates]]**  | 1:3                                | 2            | single chain     | Pyroxenes                            | ![[diagram inosilicates single.png\|100]] | [[Orthorhombic System\|Orthorhombic]] [[Monoclinic System\|Monoclinic]] [[Triclinic System\|Triclinic]]         |
 | **[[#Double-Chain Inosilicates - Amphiboles\|Inosilicates]]** | 4:11                               | 2,3          | double chain     | Amphiboles                           | ![[diagram inosilicates double.png\|100]] | [[Orthorhombic System\|Orthorhombic]] [[Monoclinic System\|Monoclinic]]                                         |
 | **[[#Phyllosilicates\|Phyllosilicates]]**                     | 2:5                                | 3            | sheet            | Micas                                | ![[diagram phyllosilicates.png\|100]]<br> | [[Monoclinic System\|Monoclinic]] [[Orthorhombic System\|Orthorhombic]]                                         |
-| **[[#Tectosilicates\|Tectosilicates]]****                     | 1:2                                | 4            | 3D network       | [[Quartz]] and feldspar group        | ![[diagram tectosilicates.png\|100]]      |                                                                                                                 |
+| **[[#Tectosilicates\|Tectosilicates]]****                     | 1:2                                | 4            | 3D network       | [[quartz]] and feldspar group        | ![[diagram tectosilicates.png\|100]]      |                                                                                                                 |
 **Ferromagnesian Minerals**
 **B**iotite
 **A**mphibole
@@ -124,7 +124,7 @@ $(Mg,Fe)_2SiO_4$
 | [[lawsonite]]               | $CaAl_2(Si_2O_7)(OH)_2\cdot H_2O$           | Orthorhombic |
 | [[ilvaite]]                 | $CaFe^{2+}_2Fe^{3+}Si_2O_7O(OH_)$           | Monoclinic   |
 | [[melilite]]                | $(Ca,Na)_2(Al, Mg, Fe^{2+})[(Al, Si)SiO_7]$ | Tetragonal   |
-### [[Epidote]] Group
+### [[epidote]] Group
 
 | Mineral                    |                                                   | Formula                                                        |
 | -------------------------- | ------------------------------------------------- | -------------------------------------------------------------- |
