@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: git@github.com:BlueSargent24/mei.git
+  baseUrl: bluesargent24.github.io/mei
   ignorePatterns:
     - private
     - templates
