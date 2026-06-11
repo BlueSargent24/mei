@@ -1,0 +1,229 @@
+filters:
+  or:
+    - file.tags.contains("mineral")
+formulas:
+  Untitled: ""
+properties:
+  note.etymology:
+    displayName: Etymology
+  note.crystalsystem:
+    displayName: crystal system
+  file.name:
+    displayName: mineral
+views:
+  - type: cards
+    name: Cards by category
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - file.name
+      - crystalsystem
+      - synonyms
+      - streak
+      - note.formula
+      - environment
+    sort:
+      - property: crystalsystem
+        direction: ASC
+      - property: streak
+        direction: DESC
+      - property: color
+        direction: ASC
+      - property: file.name
+        direction: DESC
+      - property: etymology
+        direction: ASC
+    columnSize:
+      note.streak: 165
+      note.synonyms: 369
+    image: note.image
+    cardSize: 360
+    imageAspectRatio: 0.95
+  - type: table
+    name: Metallic ore minerals
+    filters:
+      and:
+        - file.tags.contains("oremineral")
+    groupBy:
+      property: commodity
+      direction: ASC
+    order:
+      - file.name
+      - environment
+      - note.formula
+      - crystalsystem
+      - commodity
+      - crystalclass
+      - hardness
+      - synonyms
+      - category
+    sort:
+      - property: commodity
+        direction: ASC
+      - property: category
+        direction: ASC
+    image: note.image
+    columnSize:
+      file.name: 145
+      note.formula: 146
+      note.crystalclass: 172
+    rowHeight: medium
+  - type: table
+    name: Nonmetallic ore minerals
+    filters:
+      and:
+        - file.tags.contains("nonmetallic")
+    order:
+      - file.name
+      - note.formula
+      - crystalsystem
+      - commodity
+      - crystalclass
+      - hardness
+      - environment
+      - synonyms
+      - category
+    sort:
+      - property: note.formula
+        direction: ASC
+      - property: category
+        direction: ASC
+      - property: commodity
+        direction: ASC
+    image: note.image
+  - type: cards
+    name: Categories
+    filters:
+      and:
+        - category.contains(this.file.name)
+    groupBy:
+      property: crystalsystem
+      direction: ASC
+    order:
+      - file.name
+      - note.formula
+      - color
+      - crystalclass
+      - environment
+      - etymology
+      - opticaltype
+    sort: []
+    image: note.image
+    cardSize: 190
+  - type: cards
+    name: Cards by crystal system
+    groupBy:
+      property: crystalsystem
+      direction: ASC
+    order:
+      - file.name
+      - crystalsystem
+      - synonyms
+      - streak
+      - note.formula
+      - environment
+      - opticaltype
+    sort:
+      - property: streak
+        direction: DESC
+      - property: color
+        direction: ASC
+      - property: crystalsystem
+        direction: ASC
+      - property: file.name
+        direction: DESC
+      - property: etymology
+        direction: ASC
+    columnSize:
+      note.streak: 165
+      note.synonyms: 369
+    image: note.image
+    cardSize: 190
+    imageAspectRatio: 1.1
+  - type: table
+    name: Table by category
+    groupBy:
+      property: category
+      direction: ASC
+    order:
+      - file.name
+      - synonyms
+      - image
+      - notable_features
+      - note.formula
+      - crystalsystem
+      - environment
+      - streak
+      - crystalclass
+      - color
+      - cleavage
+      - commodity
+      - hardness
+      - opticaltype
+      - uses
+      - specificgravity
+      - luster
+      - habit
+      - file.tags
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: crystalsystem
+        direction: ASC
+      - property: image
+        direction: DESC
+      - property: cleavage
+        direction: ASC
+      - property: commodity
+        direction: ASC
+      - property: habit
+        direction: ASC
+      - property: optical
+        direction: ASC
+      - property: streak
+        direction: DESC
+      - property: color
+        direction: ASC
+      - property: etymology
+        direction: ASC
+    columnSize:
+      file.name: 145
+      note.image: 69
+      note.formula: 121
+      note.crystalsystem: 139
+      note.environment: 177
+      note.synonyms: 122
+      note.streak: 165
+      note.crystalclass: 172
+      note.color: 124
+      note.cleavage: 116
+      note.opticaltype: 128
+      note.uses: 117
+      note.luster: 175
+    image: note.image
+    cardSize: 150
+    imageAspectRatio: 1.1
+    rowHeight: medium
+  - type: table
+    name: Silicates
+    filters:
+      and:
+        - category == ["Silicates"]
+    order:
+      - file.name
+  - type: table
+    name: gemstones
+    filters:
+      and:
+        - file.tags.contains("gemstone")
+    order:
+      - file.name
+      - major_producer
+      - synonyms
+      - note.formula
+      - notable_features
+      - category
+      - tags
+    image: note.image
+    cardSize: 160
