@@ -28,4 +28,4 @@ Polysynthetic twinning
 high birefringence - pale, washed out, white interference colors
 ## Occurrence
 - with [[rhodochrosite]], they form solid solutions at room temperature; solid solution >550 deg C
-- limited solid solutions with: [[22_Mineralogy/Minerals/ankerite]], [[dolomite]], [[kutnohorite]] at all temperatures
+- limited solid solutions with: [[ankerite]], [[dolomite]], [[kutnohorite]] at all temperatures

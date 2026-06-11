@@ -97,7 +97,7 @@
 |[[calcite]]|Primary/Hypogene|
 |[[aragonite]]|Primary/Hypogene|
 |[[dolomite]]|Secondary/Supergene|
-|[[22_Mineralogy/Minerals/ankerite]]|Secondary/Supergene|
+|[[ankerite]]|Secondary/Supergene|
 |[[siderite]]|Secondary/Supergene|
 |[[rhodochrosite]]|Secondary/Supergene|
 |[[magnesite]]|Secondary/Supergene|
