@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Basalt, tuff, mudstone
@@ -10,7 +8,7 @@ Distribution: Lumintao, Bugsanga, Kinarawan, Patrick and Amnay rivers, Mindoro I
 
 Age: Middle Oligocene
 
-Thickness: > 2,000 m along Lumintao River
+Thickness: 2,000 m along Lumintao River
 
 Previous_Name: Lumintao Formation (MMAJ-JICA, 1984)
 

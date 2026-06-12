@@ -1,10 +1,6 @@
-﻿
-
 ---
 
-Lithology: lower Clastic Member – sandstone; silty shale;  
-middle Alagao Volcanics – andesite flow, pyroclastic breccia, tuff, graywacke, argillite  
-upper Buenacop Limestone
+Lithology: lower Clastic Member – sandstone; silty shale; middle Alagao Volcanics – andesite flow, pyroclastic breccia, tuff, graywacke, argillite upper Buenacop Limestone
 
 Stratigraphic_relations: Conformable over the Angat Formation
 
@@ -12,7 +8,7 @@ Distribution: Area between Angat and Peñaranda rivers; San Ildefonso, Bulacan. 
 
 Age: Middle Miocene
 
-Thickness: > 1,000 m
+Thickness: 1,000 m
 
 Named_by: Williams (1960)
 

@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Dense crystalline limestone; calcarenite; calcisiltite

@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Diorite, quartz diorite, minor gabbro

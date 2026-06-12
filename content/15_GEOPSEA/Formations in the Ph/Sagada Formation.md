@@ -1,9 +1,6 @@
-﻿
-
 ---
 
-Lithology: _ _ : Lower member – limestone, biomicrite, biosparite;  
-Upper member – red and green mudstones with minor conglomerate
+Lithology: Lower member – limestone, biomicrite, biosparite;  Upper member – red and green mudstones with minor conglomerate
 
 Stratigraphic_relations: Conformably underlain by the Malitep Formation in Bontoc area, and overlain by the Balili Formation in the Lepanto mine area in Mankayan, Benguet
 
@@ -11,7 +8,7 @@ Distribution: Cervantes-Bontoc Road; Sagada, Mountain Province
 
 Age: Late Eocene – Early Oligocene
 
-Thickness: >200 m and may reach 400 m
+Thickness: 200 m and may reach 400 m
 
 Previous_name: Sagada Limestone (Maleterre, 1989)
 

@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Mainly tuffaceous sandstones, with interbeds of siltstones, shales and conglomerate and minor limestone lenses

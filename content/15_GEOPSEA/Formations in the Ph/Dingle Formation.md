@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Limestone, marl, sandstone, mudstone

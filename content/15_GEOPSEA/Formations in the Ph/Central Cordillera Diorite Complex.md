@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Hornblende quartz diorite, tonalites, granodiorites, quartz monzodiorites, pyroxene-bearing diorite, hornblende diorites, monzodiorites, with minor gabbro

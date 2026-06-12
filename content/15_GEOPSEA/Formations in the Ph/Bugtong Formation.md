@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Limestone, siltstone, sandstone, conglomerate, agglomerate
