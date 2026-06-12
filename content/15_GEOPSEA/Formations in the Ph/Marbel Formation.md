@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Limestone, marl, mudstone, sandstone, conglomerate
@@ -10,7 +8,7 @@ Distribution: Marbel, South Cotabato
 
 Age: Pliocene
 
-Thickness: > 1,200 m
+Thickness: 1,200 m
 
 Named_by: Froehlich and Melendres (1960)
 

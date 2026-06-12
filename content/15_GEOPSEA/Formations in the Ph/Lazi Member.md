@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Biocalcarenite, tuffaceous sandstone, siltstone and shale with basal conglomerate

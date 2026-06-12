@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Agglomerate, tuff, andesite, dacite

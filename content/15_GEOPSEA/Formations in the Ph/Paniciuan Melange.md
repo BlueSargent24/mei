@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Tectonic fault breccia in a matrix of silty mudstone
@@ -10,7 +8,6 @@ Distribution: Sibalom Valley
 
 Age: early Middle Miocene
 
-Previous_Name: [Paniciuan Formation](Paniciuan%20Formation.md) (Santos-Yñigo, 1949)
 
 Renamed_by: Florendo (1981)
 

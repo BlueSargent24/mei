@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Orbitoid-rich limestone
@@ -12,8 +10,7 @@ Thickness: Quite variable and often lenticular (≤ 60 m)
 
 Named_by: Santos-Yñigo (1956)
 
-Synonymy: Cebu Orbitoid Limestone (Corby and others_,_ 1951);  
-Cebu Limestone (Smith, 1924)
+Synonymy: Cebu Orbitoid Limestone (Corby and others_,_ 1951);  Cebu Limestone (Smith, 1924)
 
 ---
 

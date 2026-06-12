@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Pyroclastic rocks, mudstone

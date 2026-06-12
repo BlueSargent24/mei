@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Andesite, dacite, pyroclastic rocks, wacke, chert

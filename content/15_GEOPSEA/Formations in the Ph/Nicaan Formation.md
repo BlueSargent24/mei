@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Mudstone, sandstone, conglomerate, agglomerate, minor limestone and marl

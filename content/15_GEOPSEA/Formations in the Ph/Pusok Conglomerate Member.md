@@ -1,11 +1,8 @@
-﻿
-
 ---
 
 Lithology: Conglomerate with interbeds of sandstone and siltstone
 
-Distribution: Pusok and Painuman hills in Bataraza; portions of Puerto Princesa City;  
- Inagauan and Iwahig penal colonies, Palawan
+Distribution: Pusok and Painuman hills in Bataraza; portions of Puerto Princesa City;  Inagauan and Iwahig penal colonies, Palawan
 
 Age: Pliocene
 

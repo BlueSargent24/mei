@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Dacite, andesite, basalt, pyroclastic rocks, tuffaceous clastic rocks

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Mudstone, siltstone, sandstone

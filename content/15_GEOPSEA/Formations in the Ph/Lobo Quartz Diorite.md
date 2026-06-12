@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Hornblende quartz diorite, andesite porphyry, biotite tonalite porphyry and other intermediate porphyries

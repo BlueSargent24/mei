@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Diorite, andesite porphyry, pyroxenite, gabbro

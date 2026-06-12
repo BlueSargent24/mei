@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Sandstone, siltstone, claystone, conglomerate, limestone, coal
