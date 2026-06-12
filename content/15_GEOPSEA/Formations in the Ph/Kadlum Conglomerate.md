@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Conglomerate
@@ -14,8 +12,6 @@ Thickness: 50 m
 
 Named_by: Corby and others (1951)
 
-Synonymy: [Hubasan Conglomerate](Hubasan%20Conglomerate.md) (Llaban, 1989)  
-[Masaba Conglomerate](Masaba%20Conglomerate.md) (Balce and others_,_ 1996)
 
 ---
 
