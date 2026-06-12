@@ -1,6 +1,6 @@
 ---
 Lithology: Massive limestone
-Stratigraphic_relations: _U: nconformable over the Panas Formation
+Stratigraphic_relations: nconformable over the Panas Formation
 
 Distribution: Panoyan Hill, Bataraza; Iwahig River; Dalingding Hill; Mt. Gangob, southern Palawan
 
