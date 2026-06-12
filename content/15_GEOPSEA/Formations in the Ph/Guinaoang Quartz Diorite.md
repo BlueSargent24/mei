@@ -1,0 +1,3 @@
+  
+
+The Guinaoang Quartz Diorite stock and other quartz diorite bodies in the mine area of Lepanto Consolidated Mining Co. are associated with dacites. Radiometric K-Ar dating indicate a Pliocene age for the quartz diorite (Sillitoe and Angeles, 1985). The Guinaoang may represent the local equivalent of the Black Mountain Quartz Diorite in the Baguio District. (_see [Black Mountain quartz Diorite](Black%20Mountain%20Quartz%20Diorite.md)_)

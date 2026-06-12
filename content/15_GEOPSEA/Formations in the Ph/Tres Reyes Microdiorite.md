@@ -1,0 +1,3 @@
+﻿  
+
+The Tres Reyes Microdiorite of Ibañez and others (1956) probably represents a facies of the Midsalip Diorite. It occupies the core of Mt. Tres Reyes in the Malangas-Kabasalan region in Zamboanga del Sur and is exposed along Luminibed Creek, northeast of Mt. Tres Reyes, and along a tributary of Butog Creek and can be traced for 6 km along its longer dimension. The Microdiorite intrudes the Sibuguey and Lumbog formations. (_see [Midsalip Diorite](Midsalip%20Diorite.md)_)

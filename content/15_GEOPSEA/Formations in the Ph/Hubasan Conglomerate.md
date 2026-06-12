@@ -1,0 +1,3 @@
+  
+
+The Habasan Conglomerate of Llaban (1989) is probably equivalent to the Kadlum Conglomerate. The Hubasan is exposed near the headwaters of Tagbubunga and Abijao. Its designated type locality is in Sitio Hubasan, Abijao, Villaba, Western Leyte. It consists predominantly of pebble to boulder clasts of schist, serpentinites, shales and limestone embedded in sandy matrix. It is generally massive to poorly bedded clast- to matrix-supported conglomerate. (_see [Kadlum Conglomerate](Kadlum%20Conglomerate.md)_)

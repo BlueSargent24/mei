@@ -1,0 +1,3 @@
+﻿  
+
+The Matuno Formation was named by MMAJ-JICA (1977) for the sequence of alternating yellowish brown to gray sandstone and mudstone covering a wide area around Maddela and Tauayan, Quirino province in the uppermost to middle reaches of Cagayan River. No fossils have been recovered from samples of this formation, but it is considered Pliocene in age. The Matuno is probably equivalent to the Pantabangan Formation. (_see [Pantabangan Formation](Pantabangan%20Formation.md)_)

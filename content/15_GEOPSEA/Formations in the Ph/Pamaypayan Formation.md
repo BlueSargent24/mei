@@ -1,0 +1,3 @@
+﻿  
+
+The Pamaypayan Formation is described by Vergara and Spencer (1957) as a 500 meter-thick sequence of interbedded conglomerate, sandstone, shale, coal and corralline limestone outcropping in Pamaypayan. Petrified logs are reported to be common. As described, there seems to be no major difference between the Mekoupe and Pamaypayan formations and even Vergara and Spencer (1957) admit little difference between the sandstone of the Mekoupe and Pamaypayan formations. The Pamaypayan is considered equivalent to the Bislig Formation. (_see [Bislig Formation](Bislig%20Formation.md)_)

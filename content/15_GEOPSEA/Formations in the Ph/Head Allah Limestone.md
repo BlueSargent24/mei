@@ -1,0 +1,3 @@
+  
+
+The Head Allah Limestone was named by Froelich and Melendres (1960) for the dense massive limestone exposures at Sitio Head Allah, Cotabato. It is exposed in the upper Big Lun River, Pangyan and Malbag rivers, Kambas Creek, Mt. Latian and on the eastern shore of Lake Kapanglao. The Limestone overlies volcanic agglomerate at Big Lun River and appears to occupy horizons near the base of the Early Miocene Nakal Formation at the south-central part of the Cotabato Basin. Subsurface drilling indicates a thickness of about 450 m (BED, 1986). (_see [Nakal Formation](Nakal%20Formation.md)_)

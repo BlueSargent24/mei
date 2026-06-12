@@ -1,0 +1,3 @@
+  
+
+The Awang-Table Limestone is described by BED (1986b) as thick, white to pink, fossiliferous, porous, lenticular, biohermal limestone partly intertonguing with or conformably below the San Mateo Clastics. Together, these two units represent the equivalent in the north of the Pliocene Marbel Formation that occupies the northern part of the Cotabato basin. (_see [Marbel Formation](Marbel%20Formation.md)_)

@@ -1,0 +1,3 @@
+  
+
+The term Aringay was used by Bandy (1963) and others as an in-house term adopted by San Jose Oil Co. geologists for exposures of massive to thick-bedded conglomerates east of Aringay town, La Union, which was meant to represent the upper member of the Rosario Formation. Corby and others (1951) applied the term Linao Sandstone for the upper member of the Rosario but the locality name is not reflected in available maps. Lorentz (1984) proposed the name Cataguintingan Formation for this unit for exposures at Bgy. Cataguintingan where the rocks are more continuous and the stratigraphic relation with Amlang Formation is more well defined. (_see [Cataguintingan Formation](Cataguintingan%20Formation.md)_)

@@ -1,0 +1,3 @@
+  
+
+A batholithic body consisting mainly of diorite and quartz diorite with subordinate gabbros that was designated as [Coastal Batholith](Coastal%20Batholith.md) by MMAJ-JICA (1977) was renamed Aurora Diorite Complex by MGB (2004). It was renamed [Dinalungan Diorite Complex](Dinalungan%20Diorite%20Complex.md) by MGB (2005) in view of the precedence of the [Aurora Formation](Aurora%20Formation.md) named by Antonio (1972) for the Pleistocene sedimentary rocks in Sibuguey Peninsula, Zamboanga.

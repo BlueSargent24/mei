@@ -1,0 +1,3 @@
+  
+
+The Hinabangan Formation (BED, 1986b), which crops out around the central core of Samar, is equivalent to the **Hagbay Formation.** It consists of limestone breccias at the base and grades into reefs of the middle portion and bioarenites at the upper portions of the formation (BED, 1986b). It is dated Early – Middle Miocene and has an estimated thickness of 500 m. (_see [Hagbay Formation](Hagbay%20Formation.md)_)

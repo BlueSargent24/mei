@@ -1,0 +1,3 @@
+  
+
+The Balatoc Plug was named by Leith (1938) for the breccia pipe or diatreme at Acupan, Benguet within a nearly closed embayment of the Itogon Quartz Diorite. The fine grained clay-like dacitic matrix of the diatreme encloses angular fragments and blocks of a wide variety of rocks, of which the most common are quartz diorite, andesite, dacite and clastic rocks. The Balatoc is oval in plan, measuring about 1,000 m by 600 m and extends at least one kilometer below the surface. It was earlier mined for gold by Balatoc Mining Co., and later by Benguet Corporation. It is equivalent to the Mankayan Dacitic Complex. (_see [Mankayan Dacitic Complex](Mankayan%20Dacitic%20Complex.md)_)

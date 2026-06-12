@@ -1,0 +1,3 @@
+﻿  
+
+The Masungi Limestone is a member of the Maybangain Formation. A study by Ocampo and Martin (1967) regards the Masungi as biohermal. However, exposures encountered by Haeck (1987) are interpreted to be lower-slope or basin margin deposits in a fore-reef setting. The outcrops consist mainly of redeposited limestones, including debris flows and turbiditic strata which are interbedded with calcareous and non-calcareous mudstones and minor volcaniclastic rocks. Ringenbach (1992) considers the biohermal limestone of Ocampo and Martin (1967) as an olistolith of the volcaniclastic member. (_see [Maybangain Formation](Maybangain%20Formation.md)_)

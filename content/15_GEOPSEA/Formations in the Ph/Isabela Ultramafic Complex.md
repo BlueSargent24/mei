@@ -1,0 +1,3 @@
+﻿  
+
+The Isabela Ultramafic Complex was named by Aurelio and Billedo (1987) for the ultramafic rocks extensively exposed along the coast from Dinapique Point northwards to Divilacan Bay, Isabela. The Complex consists mostly of peridotite with subordinate dunite and pyroxenite which are almost completely serpentinized and intruded in some places by diabasic dikes. Significant chromite mineralization is associated with the ultramafics. The ultramafic complex is part of the [Isabela Ophiolite](Isabela%20Ophiolite.md).

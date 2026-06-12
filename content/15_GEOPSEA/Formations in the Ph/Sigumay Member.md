@@ -1,0 +1,3 @@
+﻿  
+
+The Sigumay Member is part of the Balabac Formation. It is composed of gray medium-grained arkosic sandstone that crops out near Sigumay Point on western Balabac Island. It contains small foraminifera of Late Miocene age. The thickness ranges from 450 to 896 m. It is also coeval with the [Alfonso XIII Formation](Alfonso%20Xiii%20Formation.md)_. (see [Balabac Formation](Balabac%20Formation.md)_)

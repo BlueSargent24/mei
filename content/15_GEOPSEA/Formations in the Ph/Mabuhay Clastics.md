@@ -1,0 +1,3 @@
+﻿  
+
+The Mabuhay Clastics of UNDP (1987) at Mabuhay, Placer and Sison, Surigao del Norte, probably corresponds to the Tugunan Formation. UNDP (1987) recognized five lithologic facies, namely: Kambilibid boulder beds southeast of the Motherlode Mine; West Siana calcareous rocks in the west wall of Siana pit that lie on the basalts of the Bacuag Formation; Briggs pyroclastics at the Briggs and Reno pits of Placer Mine, Mapaso and Motherlode mines and western part of Siana Mine; Placer conglomerates in the road section south of Placer; and andesite flows which are too small to be mapped. The Placer conglomerate facies is regarded by UNDP (1987) as part of the Placer Conglomerate of Santos and others (1962) that apparently postdates the mineralization.

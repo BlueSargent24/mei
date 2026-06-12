@@ -1,0 +1,3 @@
+  
+
+Formations I, II, III in Northern Sierra Madre of Luzon are constituent units of the Caraballo Group of MMAJ-JICA (1977). The Group was renamed Caraballo Formation by Ringenbach (1992). The Formation consists of volcanic flows and volcaniclastic rocks which was subdivided by Ringenbach (1992) into proximal and distal volcano-sedimentary facies. (_see [Caraballo Formation](Caraballo%20Formation.md)_)

@@ -1,0 +1,15 @@
+---
+Lithology: Sandstone, altered tuff, calcareous sandstone, chert and slate
+Stratigraphic_relations: Unconformable over the Barton Metamorphics (Reyes, 1971) and conformably overlain by the Minilog Limestone
+Distribution: Manmegmeg Bay, south of Bacuit (formerly El Nido town); Dilumacad Island, Barboring Bay, southern part of Natnat Island, north of Bacuit, Casian Island and at the southern coast of Cadlao Island, Palawan
+Age: Middle Permian to Late Permian
+Thickness: About 1500-4500 m (BMG, 1972); the chert is about 1000 m in the Calamian Islands
+Named_by: Reyes (1971)
+Synonymy: Bacuit Chert (Gervasio, 1973)
+Correlation: Carabao Sandstone (Vallesteros and Argaño, 1965) in Carabao Island, Romblon
+---
+
+
+The name Bacuit was first used by Reyes (1971) for the sequence of shales, sandstones, conglomerate and limestone unconformably overlying the Barton Metamorphics. Its type locality is in the town of Bacuit, the old name of El Nido municipality. It was later termed **Bacuit Chert** by Gervasio (1973) to include the chert dominantly exposed in Busuanga Island. Hashimoto and Sato (1973) subdivided the Bacuit of Reyes (1971) and Gervasio (1973) into four formations, namely: Bacuit, [Minilog](Minilog%20Limestone.md), [Liminangcong](Liminangcong%20Formation.md) and [Guinlo](Guinlo%20Formation.md) formations, collectively termed [Malampaya Sound Group](Malampaya%20Sound%20Group.md). The name Bacuit was, however retained to designate beds in the lower part of the former Bacuit Formation. The Bacuit of present usage is confined to the brecciated sandstone, limestone, chert, altered tuff, calcareous sandstone and contorted alternation of sandstone and slate exposed in Manmegmeg Bay, south of Bacuit and in Dilumacad Island in the Malampaya Sound area. It was also found in the beach bordering Barboring Bay, southern part of Natnat Island, north of Bacuit, Casian Island and at the southern coast of Cadlao Island. The rocks are remarkably folded, trending in a northeast direction in southern Bacuit area and gradually shifting to an E-W direction in the southern coast of Cadlao Island (MMAJ-JICA, 1990). Although Middle to Late Permian ranging conodonts _Gondolella rosenkrantzi_ (Benden and Stoppel) and _Ozarkodina tortilis_ Tatge were identified in the chert, a Middle Permian age was assigned to the formation (Hashimoto and Sato, 1973). Wolfart and others (1986) later considered an Early to Middle Permian age for the Bacuit based on the additional species identified which include S_pathognathodus_ sp., _Neospathodus_ sp. and _Hindeodella_ sp.
+
+The Bacuit Formation as presently used is ranked as the basal part of the Malampaya Sound Group. Its thickness is estimated by BMG (1972) to be about 1500-4500 meters. The chert sequence was estimated by Fontaine (1979) to reach a thickness of 1000 m in the Calamian islands.

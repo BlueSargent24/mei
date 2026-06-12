@@ -1,0 +1,3 @@
+ 
+
+The Sto. Thomas Limestone is the uppermost member of the [Dingle Formation](Dingle%20Formation.md) in eastern Panay. It was named after Mt. Sto. Thomas, along a tributary of the Bitaogan Creek, 10 km north of Passi. Northwards it could be traced to Dumarao, Capiz and southwards to about 4 km north of Passi where it grades into the Ulian Formation. It is cream to gray, hard, fragmental and thin-bedded. Coarse grained highly calcareous sandstone and mudstone are interbedded with the limestone. The Sto. Thomas is 750 m thick.

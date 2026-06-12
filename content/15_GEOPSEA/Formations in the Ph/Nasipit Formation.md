@@ -1,0 +1,3 @@
+﻿  
+
+The Nasipit Formation was named by Teves and others (1951) for a small exposure of sedimentary rocks at Nasipit, Agusan del Norte. It consists of conglomeratic sandstones, shale and marl interbedded with thin layers of limestone. The maximum thickness at the Amparo area is 220 m. The Nasipit was dated Late Miocene - Pliocene (Tertiary g) by Teves and others (1951). It corresponds to the Tugunan Formation_. (see [Tugunan Formation](Tugunan%20Formation.md)_)

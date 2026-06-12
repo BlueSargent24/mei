@@ -1,0 +1,5 @@
+  
+
+The Bicol Volcanic Arc Complex consists of a number of active and inactive volcanoes and volcanic centers that are disposed along a northwest trending belt from Mt. Labo in Camarines Norte to Mt. Bulusan in Sorsogon. Among the active volcanoes within this arc complex are Mayon (Albay) and Bulusan (Sorsogon) and Iriga (Camarines Sur). Inactive volcanoes include Mounts Labo, Bagacay and Nalusbitan in Camarines Norte; Cone, Culasi and Isarog in Camarines Sur; Malinao, Masaraga, Manito and Ligon Hill in Albay; and Binitican, Gate, Jormajan, Juban, Maraut-Banua and Pocdol in Sorsogon.
+
+The volcanoes and volcanic centers within the Bicol Volcanic Arc Complex are formed from the outpouring of lavas and other volcanic ejecta that were produced as a ressult of partial melting of the subducting slab of the Bicol segment of the Philippine Sea Plate along the Philippine Trench. Volcanism could have commenced in the Pliocene and continues to the present time.

@@ -1,0 +1,3 @@
+﻿  
+
+The Salomon Member of the Dacao Formation of Florendo (1987), could be equivalent to the Taog Formation and may be considered as a facies of the Tagabaca. The Salomon consists of medium- to very coarse-grained sandstone and rare shale and calcareous mudstone observed in the thrust slab at the headwaters of the Kantaring River, Maasin, Southern Leyte. Parallel laminations are common in the sandstone facies. No diagnostic fossil was identified in this member, but a probable Early Miocene age is inferred based on its position with respect to the overlying Middle Miocene Danao Limestone of Florendo (1987). (_see [Taog Formation](Taog%20Formation.md)_)

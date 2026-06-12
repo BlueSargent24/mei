@@ -1,0 +1,3 @@
+ 
+
+Graniitic intrusions in northern Palawan include Stripe Peak Granite (UNDP, 1985; BMG, 1987) which was renamed Stripe Peak Granodiorite by MMAJ-JICA (1990). The granodiorite consists of plagioclase, quartz, biotite and amphibole. It also underlies areas around the western coast of San Miguel, northwest of Pancol, southwest of Mabini and Darocotan Bay. It is considered correlative with the Kapoas granite. (_see [Kapoas Granite](Kapoas%20Granite.md)_)

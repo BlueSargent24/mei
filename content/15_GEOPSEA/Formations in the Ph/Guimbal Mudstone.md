@@ -1,0 +1,3 @@
+  
+
+The Guimbal Mudstone is a member of the Tarao Formation. Its type locality at Guimbal, Iloilo, extends from the junction of Har-ao and Tanian rivers going upstream to a point between barrios Napahay and Tagpuan (Santos, 1968). It consists mainly of thick bedded, gray-green, soft, highly calcareous foraminiferal mudstone with highly fossiliferous marl, calcisiltite and minor conglomerate. It attains a maximum thickness of 1,166 m along Har-ao River, while thinner sections, of only 407 m and 378 m, were measured along Ulian and Tigum rivers, respectively (Santos, 1968). (_see [Tarao Formation](Tarao%20Formation.md)_)

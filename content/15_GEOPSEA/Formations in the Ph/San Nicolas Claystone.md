@@ -1,0 +1,3 @@
+﻿  
+
+The San Nicolas Claystone is considered as the basinal clastic equivalent of the [Mapanas Limestone](Mapanas%20Limestone.md) (BED, 1986b) in northeastern Samar. It consists of thinly laminated claystones and siltstones with carbonaceous material and disseminated pyrite. Increase in fossil content was observed along with increase in calcareous content, which was also confirmed in North Samar A-IX well. It is dated Eocene.

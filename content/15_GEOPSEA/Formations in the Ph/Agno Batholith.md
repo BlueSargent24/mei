@@ -1,0 +1,2 @@
+  
+The Agno Batholith was named by Fernandez and Pulanco (1964, 1967) for the extensive occurrences of diorites and quartz diorites in the Central Cordillera of Luzon. MGB (2004) distinguished between two major diorite intrusive events, and thus renamed the Batholith as Central Cordillera Diorite Complex, corresponding to the Oligocene intrusion, and the Miocene Itogon Quartz Diorite (_see [Central Cordillera Diorite Complex](Central%20Cordillera%20Diorite%20Complex.md) and [Itogon Quartz Diorite](Itogonquartz%20Diorite.md)_)

@@ -1,0 +1,3 @@
+﻿  
+
+The Matinloc Formation is an offshore subsurface unit defined through subsurface wells. It rests conformably on another subsurface unit, the Pag-asa Formation and determined to be Middle Miocene, possibly extending up to Pliocene. The Early Miocene to Middle Miocene Pag-asa Formation, in turn, lies conformably on the Nido Limesone which is the subsurface equivalent of the onshore St. Paul Limestone in Palawan. (_see [St. Paul Limestone](St%20Paul%20Limestone.md)_)

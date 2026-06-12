@@ -1,0 +1,3 @@
+  
+
+The Dacao Formation was designated by Florendo (1987) for the Late Oligocene to Early Miocene sequence of sedimentary rocks in western Leyte. Florendo (1987) defined the following as members of Dacao Formation: [Cansirong Limestone](Cansirong%20Limestone.md) (_see [Kantaring Limestone](Kantaring%20Limestone.md)_), Batang Member (_see [Batang Formation](Batang%20Formation.md)_), and [Tagabaca](Tagabaca%20Member.md) and [Salomon](Salomon%20Member.md) members (_see [Taog Formation](Taog%20Formation.md)_). These members were considered by other workers as formations (Kantaring and Batang formations) or in the case of Tagabaca and Salomon members, equivalent to the Taog Formation.

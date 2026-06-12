@@ -1,0 +1,3 @@
+  
+
+The Dumatata Formation of Huth (1962), which was considered as the basement of the Cagayan Valley sedimentary sequence in BMG (1981), may be regarded as partly equivalent to the Abuan Formation. The Dumatata Formation is composed of an alternation of basic lava flows, partly metamorphosed pyroclastic breccia and tuffaceous sandstone and siltstone. It is about 550 m thick. It is also regarded as partly equivalent to the Dibuluan Formation. (_see [Abuan Formation](Abuan%20Formation.md) and [Dibuluan Formation](Dibuluan%20Formation.md)_)

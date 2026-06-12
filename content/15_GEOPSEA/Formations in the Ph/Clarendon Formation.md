@@ -1,0 +1,3 @@
+  
+
+The Clarendon Formation was named by Basco (1964) for the Pliocene sedimentary rocks at Balabac Island. The Clarendon has a clastic and limestone facies. The clastic facies is exposed at Cape Melville and extends to the south. It consists of shale and sandstone with stringers of bitumen. The sandstone is medium to thick bedded, fine to coarse grained, micaceous and feldspathic. The limestone facies occurs in Barong-Barong Point and Inanacule Point at Clarendon Bay. The limestone is coralline, reefal and biostromal and conglomeratic in places. It has interbeds of marl and calcareous shale. The thickness ranges from 60 to 90 m. The Clarendon is equivalent to the Iwahig Formation. (_see [Iwahig Formation](Iwahig%20Formation.md)_)

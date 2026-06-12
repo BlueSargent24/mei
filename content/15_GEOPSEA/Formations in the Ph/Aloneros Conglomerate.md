@@ -1,0 +1,3 @@
+  
+
+The Aloneros Conglomerate was named by Corby and others (1951) for the coarse sandy gravels (chiefly non-marine) interbedded with large amounts of clay and silt of volcanic origin exposed between Sto. Domingo and Aloneros in Quezon province. It was assigned a Late Miocene age by Corby and others (1951). The Aloneros is apparently equivalent to the Pitogo Conglomerate (_see [Canguinsa Formation](Canguinsa%20Formation.md)_).

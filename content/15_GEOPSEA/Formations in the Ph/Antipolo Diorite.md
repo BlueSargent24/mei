@@ -1,0 +1,3 @@
+  
+
+The Oligocene diorite intruding Cretaceous to Eocene units in southern Sierra Madre was designated by BMG (1981) as Antipolo Diorite, with type locality along the Antipolo-Teresa road in Rizal province. It was renamed Sta. Ines Diorite by MGB (2004), following Antonio (1967), who named the diorite body for the exposures at Mt. Masarat , Bgy. Sta. Ines, Tanay, Rizal. (_see [Sta. Ines Diorite](Sta%20Ines%20Diorite.md)_)

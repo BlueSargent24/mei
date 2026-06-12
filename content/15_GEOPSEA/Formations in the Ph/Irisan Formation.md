@@ -1,0 +1,3 @@
+﻿  
+
+The Irisan Formation was named by Maleterre (1989) for the outcrops of poorly indurated conglomerates at Irisan, a suburban area of Baguio City. It also outcrops between Naguilian Road and Trinidad Valley and estimated to be about 100 m thick. At Trinidad, the formation consists of andesitic tuff breccia and poorly indurated conglomerates. It is considered by MGB (2004) to be partly equivalent to the Baguio Formation. (_see [Baguio Formation](Baguio%20Formation.md)_)

@@ -1,0 +1,3 @@
+﻿  
+
+The Upper Buyag Formation of Porth and others (1989) apparently corresponds to the Buyag Formation of Corby and others (1951). As described by Porth and others (1989), the formation consists of marls with intercalated limestones in southeastern Masbate and west of Nabangig. The foraminiferal and nannoplankton assemblages as reported by Porth and others (1989) are bracketed by zones N16 to N19 (Serravallian to Zanclean) and NN11 to NN15? (Serravallian – Tortonian), respectively, corresponding to Middle Miocene to Early Pliocene. (_see [Buyag Formation](Buyag%20Formation.md)_)

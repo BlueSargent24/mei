@@ -1,0 +1,7 @@
+  
+
+The mica-quartz-oligoclase-albite gneiss, designated by Caagusan (1966) as Mindoro gneiss, is widely exposed in a 150-km2 area. It is bounded by Puerto Galera and San Teodoro on the east, Verde Island Passage on the north, Odalo River on the west, and Inabasan-Alag River on the south. MGB (2004) designated the gneiss as Camarong Gneiss for the exposures at Camarong River. The rock is white to greenish gray, coarse grained, with pronounced crystal orientation. Foliation is prominent in varieties rich in muscovite and biotite. Muscovite is commonly dominant over biotite; the latter increases in amount southwestward. The percentages of essential components of the rocks are: oligoclase-albite, 20-60; quartz, 30-60; and micas, 10-50. Farther west, along Odalo River, the quartz-albite-oligoclase gneiss carries actinolite instead of muscovite or biotite.
+
+In Lubang Island, the lower part is made up of a coarse-grained quartz feldspar-muscovite-garnet gneiss. The best exposure is in Genting Ridge at the central part of the island where it is intruded by basic dikes metamorphosed into amphibolite schist. The upper part is composed of various types of schists that generally grade into one another. These are quartz-feldspar-muscovite, quartz-feldspar-biotite and chlorite-epidote-actinolite schists.
+
+The protolith of the gneiss is considered by Caagusan (1966) to be an intrusive body, probably quartz diorite or tonalite. The gneiss is adjacent to the Burburungan Amphibolite.

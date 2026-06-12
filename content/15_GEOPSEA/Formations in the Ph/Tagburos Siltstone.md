@@ -1,0 +1,3 @@
+﻿  
+
+The Tagburos Siltstone was designated by MMAJ-JICA (1990) as a member of the Espina Formation in Palawan. It consists of interbedded massive greenish siltstone, minor wacke and conglomerate. This also includes thin turbiditic sandstones and gray mudstones with minor interbedded red mudstones and quartzite outcropping in Iratag River. In Bonton River, the limestone reaches a thickness of about 50 cm. The Espina Formation represents the sedimentary cover of the Palawan Ophiolite. (_see [Espina Formation](Espina%20Formation.md)_)

@@ -1,0 +1,3 @@
+﻿  
+
+The Mabaca River Group of Durkee and Pederson (1961) refers to a thick sequence of clastic rocks along the western margin of the Cagayan Valley subdivided into three sub-units based on varying sandstone-shale ratio. From the bottom, these are: Asiga Formation, Balbalan Sandstone and Buluan Formation. The Mabaca River Group is considered equivalent to the Lubuagan Formation (Gonzales, 1978), which was previously designated by Corby and others (1951) as Lubuagan Coal Measures. The sub-units of the Group were demoted to member status by Gonzales and others (1978). (_see [Lubuagan Formation](Lubuagan%20Formation.md)_)

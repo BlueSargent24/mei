@@ -1,0 +1,3 @@
+﻿  
+
+The Maliao Wackes was named by UNDP (1986) for the sequence of Early – Middle Miocene wackes and thin siltstones along Maliao River, a tributary of Dalanas River in western Panay. In places, the Maliao has interbeds of conglomerate and andesite flow breccia. The Maliao and Igsawa Pyroclastics (UNDP, 1986) are considered coeval with the Mayos Formation. It has an estimated thickness of around 800 m. (_see [Mayos Formation](Mayos%20Formation.md)_)

@@ -1,0 +1,3 @@
+  
+
+The Cansirong Limestone was designated by Florendo (1987) as a member of the Dacao Formation. The limestone unit is equivalent to the Kantaring Limestone named by Jurgan (1980) for the limestone boulders found along the road from Nonok to Acacia at the west slope of Kantaring Valley, north of Maasin, Southern Leyte. Biomicrite beds containing detritus of finger and head corals were also observed to overlie1-2 m thick pebbly claysone that rests on volcanic basement at Acacia district (Jurgan and Domingo, 1989). (_see [Dacao Formation](Dacao%20Formation.md), [Kantaring Limestone](Kantaring%20Limestone.md)_)

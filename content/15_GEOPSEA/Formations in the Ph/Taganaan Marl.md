@@ -1,0 +1,3 @@
+﻿  
+
+The Taganaan Marl, which attains a thickness of 200 m, was designated by UNDP (1987) as a member of the Motherlode Turbidite Formation (equivalent to the Mabuhay Formation) in Surigao del Norte. The Taganaan consists of gently-dipping interbedded silty limestones and calcareous shales (UNDP. 1987). This member yielded fossils of Early to Middle Miocene age. (_see [Mabuhay Formation](Mabuhay%20Formation.md)_)

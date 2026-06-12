@@ -1,0 +1,3 @@
+﻿  
+
+Dacite domes, diatreme breccias and pyroclastics in the Lepanto Mine area, Mankayan, Benguet, preceded and postdated epithermal mineralization. These are known locally as Imbaguila Dacite Porphyry and Bato Dacite Porphyry and their pyroclastic equivalents. The Imbaguila Dacites predate mineralization while the Bato Dacites postdate the mineralization. (_see [Mankayan Dacitic Complex](Mankayan%20Dacitic%20Complex.md)_)

@@ -1,0 +1,3 @@
+﻿  
+
+The Mt. Cresta Formation of MMAJ-JICA (1989) is a dacitic complex of lava flows, intrusive rocks, pyroclastics and sedimentary deposits, conformably overlain by the well-bedded Oligocene Masipi Green Tuff of Northern Sierra Madre. It is exposed typically on the slopes of Mt. Cresta and lies scattered on the ridges of the Northern Sierra Madre Range, as mapped by MMAJ-JICA (1989). It may be correlated with the Abuan Formation in northern Sierra Madre. (_see [Abuan Formation](Abuan%20Formation.md)_)

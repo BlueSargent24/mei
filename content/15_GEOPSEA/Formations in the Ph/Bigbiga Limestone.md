@@ -1,0 +1,3 @@
+  
+
+The Bigbiga Limestone constitutes the lower member of the Aksitero Formation in Tarlac, which was subdivided by Schweller and others (1984) into two members. The 42-m thick Bigbiga consists of micritic limestone interbedded with tuffaceous turbidites. It was dated Late Eocene to Early Oligocene and the upper 78-m member was dated Middle to Late Oligocene. (see [Aksitero Formation](Aksitero%20Formation.md))

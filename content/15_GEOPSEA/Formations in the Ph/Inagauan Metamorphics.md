@@ -1,0 +1,3 @@
+﻿  
+
+The Inagauan Metamorphics of MMAJ-JICA (1990) in central Palawan is probably partly equivalent to the Dalrympole Amphibolite. The Inagauan is subdivided into greenschist and amphibolite member and quartz-mica schist and quartzose schist member. These rocks are distributed at Inagauan and Malasgao rivers and in the hills and mountains around Berong. (_see [Dalrympole Amphibolite](Dalrympole%20Amphibolite.md)_)

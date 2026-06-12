@@ -1,0 +1,3 @@
+  
+
+The Emerald Creek Complex was named by Schafer (1954) for the dike swarms typically encountered along Emerald Creek, a tributary of Bued River near Camp 6 on the eastern side, at Tuba, Benguet. These dikes include lamprophyric rocks and appinites and other porphyritic rocks which exhibit prominent hornblende and pyroxene phenocrysts as well as ordinary andesite porphyry with varying sizes and amounts of plagioclase phenocrysts. Many of the dikes are equivalent to the Balacbac andesite. (_see [Balacbac Andesite](Balacbac%20Andesite.md)_)

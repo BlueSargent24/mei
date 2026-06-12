@@ -1,0 +1,3 @@
+﻿  
+
+The Pasig Silt is the upper member of the [San Pascual Formation](San%20Pascual%20Formation.md) in Burias Island. It consists of gray to white massive and bedded limestone with interbeds and lenses of massive calcareous siltstone. The type locality is probably Pasig Point. This upper member is exposed between the northern half of Burias and Mount Engañosa. The thickness of the Pasig is about 60 m.

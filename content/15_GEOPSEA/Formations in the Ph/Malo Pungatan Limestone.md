@@ -1,0 +1,3 @@
+﻿  
+
+The Malo Pungatan Limestone (Gwinn and others, 1959) in Tarlac is a limestone member of the Moriones Formation. At the area indicated as the type locality, near Caananorgan, the unit consists of calcarenites and porous coralline limestone. Other exposures may be found at Pingul area and further north, to the west of Camiling, Tarlac. The thickness of Malo Pungatan ranges from 3 to 4 m. (_see [Moriones Formation](Moriones%20Formation.md)_)

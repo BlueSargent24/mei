@@ -1,0 +1,3 @@
+  
+
+The name Barcelona Group was used by MMAJ-JICA (1973) for the suite of Cretaceous to Late Oligocene rocks in the central-southern portion of Diwata Range in eastern Mindanao. The Barcelona Basalt of Vergara and Spencer (1957) is included in the Group. MMAJ-JICA (1973) subdivided the group into informal units designated as [Formations I, II and III](Formations_I_II_III.md). Formation I consists mainly of volcanic rocks with subordinate interbeds of clastic rocks; Formation II is composed mainly of andesite lavas with intercalations of pyroclastic rocks; Formation III is made up mainly of sandstone and shale. (_see [Barcelona Formation](Barcelona%20Formation.md)_)

@@ -1,0 +1,3 @@
+  
+
+The Bacungan River Group was named by UNDP (1985) for the Late Cretaceous suite of rocks around Bacungan River in central Palawan. It consists of [Maranat pillow lavas](Maranat%20Pillow%20Lavas.md), [Tagburos Siltstone](Tagburos%20Siltstone.md) and [Sulu Sea Mine Formation](Sulu%20Sea%20Mine%20Formation.md). The Group is equivalent to the Espina Formation. (_see [Espina Formation](Espina%20Formation.md)_)

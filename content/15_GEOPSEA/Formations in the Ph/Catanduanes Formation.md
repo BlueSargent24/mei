@@ -1,0 +1,3 @@
+  
+
+This formation was named by Miranda and Vargas (1967) for the rocks exposed from Bacon on the northwest to Baras on the southeast and portions of outlying islands. It consists of schist, argillite and sandstone with local interbeds of conglomerate. The conglomerate occurs only in a few places with pebble size clasts of basalt. It has an estimated thickness of 3,000 m (BMG, 1981). The formation is considered by MGB (2004) to be part of, and equivalent to, the [Yop Formation](Yop%20Formation.md), and previously named [Agban Phyllites](Agban%20Phyllites.md) (Meek, 1938) and Cabugao Subgreywacke (Capistrano, 1952).

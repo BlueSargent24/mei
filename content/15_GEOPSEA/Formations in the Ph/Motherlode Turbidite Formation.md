@@ -1,0 +1,3 @@
+﻿  
+
+The Motherlode Turbidite Formation was named by UNDP (1987) for the exposures of sedimentary rocks around the Mindanao Motherlode Mine in Surigao del Norte. It is probably equivalent to the Mabuhay Formation. The base of the formation as described by UNDP (1987) is characterized by mudstones with thin siltstones and wackes on a thin limestone bed which lies on a 3 – 10 m thick calcisiltite boulder conglomerate. This is underlain by purple marls, calcisiltites and limestones assigned to the Bacuag Formation. Turbiditic sequences in exposures along Libas River are also described by UNDP (1987). The Taganaan Marl was designated by UNDP (1987) as a member of the Motherlode Turbidite Formation. (_see [Mabuhay Formation](Mabuhay%20Formation.md)_)

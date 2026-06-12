@@ -1,0 +1,3 @@
+  
+
+The Columbus Formation consists of thinly laminated biomicrites whose type locality is along an unnamed tributary of Agno River (Maleterre, 1989). In places, the limestone shows volcanic clasts. The Columbus is about 200 m thick and is dated Oligocene, probably Early Oligocene. It is considered equivalent to the lower limestone member of the Sagada Formation in the Cervantes-Bontoc area in the Luzon Central Cordillera. (_see [Sagada Formation](Sagada%20Formation.md)_)

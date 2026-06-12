@@ -1,0 +1,3 @@
+﻿  
+
+The Kabulao Conglomerate of Arco (1962) probably correlates with the Tubigon Conglomerate Member of the Maribojoc Formation and Mt. Corte Conglomerate of UNDP (1987). The Kabulao outcrops along Kabulao River, some 8 km north of Mabini, in the eastern coast of Bohol. It is about 150 meters thick, with clasts of boulders, cobbles, and pebbles of volcanic and metamorphic rocks fixed in sandy tuffaceous cement. No fossil was identified from the conglomerate. However, a probable Pliocene age is inferred for this unit. (_see [Maribojoc Formation](Maribojoc%20Formation.md)_)

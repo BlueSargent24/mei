@@ -1,0 +1,3 @@
+ 
+
+The Taclaon Clay is a member of the [Calicoan Formation](Calicoan%20Formation.md), which was previously designated by Corby and others (1951) as Calicoan Limestone in reference to the limestone at Calicoan Island and at the southeastern tip of Eastern Samar. The Taclaon, which underlies the limestone is composed of alternating layers of brownish, sandy, bluish gray claystone beds. The formation is dated Late Pliocene to Pleistocene. (_see Calicoan Formation_)

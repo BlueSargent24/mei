@@ -1,0 +1,3 @@
+﻿  
+
+The exposure at Siana Mine, called Siana Beds by Santos-Yñigo (1944), may be considered as a reference section representing the lower portion of the Bacuag Formation. The lithology at the Siana pit consists of basalt flows, basaltic pyroclastics, feldspathic sandstones, laminated sandstones, green shales and white nodular limestone. Also present are light gray to black, massive limestone with cherty lenses and greenish gray or black shale. The formation generally dips gently except in the north where dips are much steeper. (_see [Bacuag Formation](Bacuag%20Formation.md)_)

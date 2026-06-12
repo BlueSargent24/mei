@@ -1,0 +1,3 @@
+﻿  
+
+The San Jose Limestone in the central part of Samar was designated by BED (1986b) and is equivalent to the [San Jose Formation](San%20Jose%20Formation%20Samar.md) of Cabantog and Quiwa (1982). It is described as thinly bedded deep water micrite. The limestone interbeds in San Jose and Maylube contain various species of _Globotruncana_ and _Rugoglobigerina_ with _Heterohelix globulosa_ (Ehrenberg) pointing to a Late Cretaceous (Turonian) age (Reyes and Ordonez, 1970).

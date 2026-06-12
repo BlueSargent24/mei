@@ -1,0 +1,3 @@
+﻿  
+
+The Rosario Formation was earlier named by Corby and others (1951) for the Late Neogene sedimentary rocks in La Union. The formation was previously subdivided into a lower Amlang member and an upper Aringay member. Lorentz (1984) proposed to elevate the constituent members of the Rosario Formation into two distinct formations, namely a lower Amlang Formation and upper Cataguintingan Formation with an unconformity dividing them. Fossils indicate an age of Late Miocene to Pliocene for the Rosario Formation (Tumanda, 1984) (_see [Amlang Formation](Amlang%20Formation.md), [Cataguintingan Formation](Cataguintingan%20Formation.md)_)

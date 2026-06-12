@@ -1,0 +1,3 @@
+﻿  
+
+The Sorsogon Marl of Corby and others (1951) is considered equivalent to the Ligao Formation. The Sorsogon Marl is an assemblage of flat-lying loosely consolidated calcareous tuffs, calcarenites and calcisiltites which could represent the near-shore facies of the Malama siltstone of the Ligao Formation. Francisco (1961) renamed it Sorsogon Formation with three members, namely: _clastic and tuff member_, including cross-bedded, loosely consolidated coarse sandstone, tuffs and finer clastic rocks; _basalt member_; and _marly shale and limestone member_, equivalent to the Sorsogon Marl of Corby and others (1951). (_see [Ligao Formation](Ligao%20Formation.md)_)

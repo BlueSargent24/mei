@@ -1,0 +1,3 @@
+﻿  
+
+The Mt. Corte Conglomerate refers to the conglomerate and sedimentary breccia with minor tuffs and calcareous sediments identified at Mt. Corte in Jetafe, Bohol. At the type area, it was described as massive, to thickly bedded, dipping westward and consisting of angular clasts of andesitic rocks and porous silicic tuff. It is equivalent to the Tubigon Conglomerate member of the Maribojoc Formation. (_see [Maribojoc Formation](Maribojoc%20Formation.md)_)

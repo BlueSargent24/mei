@@ -1,0 +1,3 @@
+﻿  
+
+The Insulman Formation, as redefined by Agadier-Zepeda and others (1993), is probably equivalent to the Famnoan Formation in Mindoro. Paleontologic dating by Agadier-Zepeda and others (1992) for this sequence of mudstones, siltstones, sandstones and limestone indicate an age no older than Pliocene for the formation. Marchadier and Rangin (1990) report a dating of Early Pliocene (nannoplankton zone NN14-NN15) for the siltstone sequence at Insulman River. (_see [Famnoan Formation](Famnoan%20Formation.md)_)

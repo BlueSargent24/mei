@@ -1,0 +1,3 @@
+﻿  
+
+The Salngan Member is part of the [Passi Formation](Passi%20Formation.md) in eastern Panay. It was named after Barrio Salngan about 10 km north-northeast of Passi. It occurs at the edges of the volcanic rocks in the eastern border from Badbaran River east of Damarco, Capiz to Barrio Cubay, San Enrique, Iloilo. The member is made up of massive homogenous mudstone and indurated sandstone. The boundary between the two members is marked by boulder to cobble conglomerate. The thickness is 373 m along Guinayan River.

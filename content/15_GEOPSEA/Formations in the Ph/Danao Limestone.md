@@ -1,0 +1,3 @@
+  
+
+The Danao Limestone was named by Florendo (1987) for the limestone exposures in southwestern Leyte and is equivalent to the Calubian Limestone on the east coast of Calubian Peninsula. The Danao Limestone is defined as a massive, coralline-algal type limestone in the north and central parts of southern Leyte and in the mountainous part of the central highlands. A thickness of 140 -160 m was measured for an exposure of the limestone. The formation unconformably overlies the Late Oligocene – Early Miocene Dacao Formation of Florendo (1987) and is in turn conformably overlain by the Masonting Formation. Based on its foraminiferal content, the formation is dated Middle Miocene (Florendo, 1987). (_see [Calubian Limestone](Calubian%20Limestone.md)_)

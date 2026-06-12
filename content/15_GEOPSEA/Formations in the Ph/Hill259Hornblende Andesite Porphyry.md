@@ -1,0 +1,3 @@
+  
+
+The Hill 259 Hornblende Andesite Porphyry, Hill 169 Andesite and Naga Andesite in Surigao del Norte are Pliocene andesitic units mapped by UNDP (1987) which could also be equivalent to the Ipil Andesite. Radiometric K-Ar dating of samples of Naga Andesite and Hill 259 Hornblende Andesite Porphyry indicated ages of 2.3 ± 1.2 Ma and 3.18 ± 0.27 Ma (UNDP, 1987). (_see [Ipil Andesite](Ipil%20Andesite.md)_)

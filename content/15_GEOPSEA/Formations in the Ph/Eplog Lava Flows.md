@@ -1,0 +1,3 @@
+  
+
+The Eplog Lava Flows of Weller and Vergara (1955) was named after Mt. Eplog, the highest hill in Balatasan Peninsula, southeastern Mindoro. It is probably equivalent to the [Dumali Volcanic Complex](Dumali%20Volcanic%20Complex.md), also in Mindoro. The Eplog consists of lava flows with a thickness of at least 35 m. Similar flows occur near Akihit at the mouth of Naujan Valley. The lava consists of vesicular and glassy hornblende andesite. Some of the vesicles are partly filled with calcite and zeolite.

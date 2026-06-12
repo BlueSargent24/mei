@@ -1,0 +1,3 @@
+  
+
+Calayan is located approximately 30 km west of the main volcanic axis of the Luzon arc (Batan – Babuyan – Camiguin - Mt. Cagua). It is significantly older than the other islands (approximately 7 - 4 Ma) except for Batan's oldest units. The four effusive volcanic centers of the island, Mt. Nongabaywaman, Mt. Macara, Mt. Calayan, and Mt. Piddan, are overlain by Plio-Quaternary reef limestones near the shore. The Calayan lavas range in composition from the oldest unit (ca. 6-7 Ma) of basaltic andesite flows to 5-6 Ma andesitic lava flows to the youngest volcanic formation (ca. 4 Ma) of rhyolitic lava flow (Defant and others, 1989).

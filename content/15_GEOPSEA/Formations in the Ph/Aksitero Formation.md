@@ -1,0 +1,12 @@
+---
+Lithology: Lower Bigbiga Limestone – micritic limestone with tuffaceous turbidites and minor chert, Upper Burgos Member – Limestone, tuffaceous sandstone, siltstone and mudstone
+Stratigraphic_relations: Base of sedimentary sequence in Central Luzon; unconformably overlain by the Moriones Formation
+Distribution: Aksitero River, Bigbiga, Mayantoc, Tarlac
+Age: Late Eocene – Late Oligocene
+Thickness: Bigbiga limestone - 42 m, Burgos Member - 78 m
+Named_b:y: Amato (1965)
+---
+
+ 
+
+The Aksitero Formation is the oldest sedimentary formation in the west flank of the Central Luzon Basin. It was described by Amato (1965) after exposures along the upper reaches of Aksitero River in the vicinity of Bigbiga in the western foothills of Zambales Range. It represents the sedimentary cover of the Zambales Ophiolite and is made up of pelagic limestone and clastic rocks. The limestone is thin- to thick-bedded, cream to dirty white and tuffaceous. It is interbedded with thin calcareous and tuffaceous sandy shale. Below the limestone are lenses of rounded to ellipsoidal, generally discontinuous, reddish calcareous chert (Villones, 1980). Smaller chert lenses are interbedded with the limestone which gradually disappear upsection. Amato (1965) gave an age of Late Eocene to Early Oligocene to this formation based on the presence of _Hantkenina alakamensis Cushman, Globorotalia cerroazulenses Calc, Globorotalia centralis Cushman_ and _Bermudez_ and _Discoaster barbadiensis Tan Sin Hok_ in the lower part; and _Globorotalia opima nana Balli_ and _Globigerina cipeoensis angustiumbilicata Balli_ in the upper part. In 1984, Schweller and others (1984) divided the Aksitero into a lower **_[Bigbiga limestone member](Bigbiga%20Limestone.md)_** consisting of micritic limestone interbedded with tuffaceous turbidites and an upper **_[Burgos member](Burgos%20Member.md)_** of interlayered limestone and indurated calcareous and tuffaceous sandstone, siltstone and mudstone. The lower member, which is 42 m thick, was dated Late Eocene to Early Oligocene and the upper 78-m member was dated Middle to Late Oligocene. Thus the age is Late Eocene to Late Oligocene and the aggregate thickness is about 120 m. Garrison and others (1979) stated that the hemipelagic limestone and tuffaceous turbidites of the Aksitero were probably deposited at depths of at least 1000 m in a subsiding basin adjacent to an active arc system.

@@ -1,0 +1,3 @@
+  
+
+The Coronel Formation of Rutland (1967) refers to the sequence of volcanic flows with interbeds of cherty mudstones and fine greywacke in the Bongabon-Gabaldon area, Nueva Ecija. It is exposed over a large part of the Laur-Dingalan fault zone, particularly in the southwestern end, where the typical section along the Dingalan Forest Products Co. road may be found. Pillow lavas are well preserved in this section. It is considered Late Eocene to Early Oligocene in age by BMG (1981). The Coronel probably partly corresponds to the Caraballo Formation. (_see [Caraballo Formation](Caraballo%20Formation.md)_)

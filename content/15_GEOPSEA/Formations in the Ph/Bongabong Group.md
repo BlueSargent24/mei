@@ -1,0 +1,3 @@
+  
+
+The Bongabong Group was named by MMAJ-JICA (1984) for the suite of rocks distributed in Oriental Mindoro and north of of San Jose in southwestern Mindoro. The Bongabong Group consists mostly of Pliocene conglomerates, tuffacous sandstones and mudstones. Included by MMAJ-JICA (1984) in the Group are the [Famnoan Formation](Famnoan%20Formation.md) and Barubo Sandstone of Teves (1953) and the [Punso Conglomerate](Punso%20Conglomerate.md) of Miranda (1980).

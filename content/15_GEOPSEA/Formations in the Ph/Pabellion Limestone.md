@@ -1,0 +1,3 @@
+﻿  
+
+The name Pabellion Limestone established by Reyes (1971) for the exposure at Pabellion Island is equivalent to the Maytiguid Limestone. It is probably partly equivalent to the Late Eocene limestones encountered by Galoc No. 1, Malajon No. 1 and Nido No. 1 wells in offshore northwest Palawan (Sales and others, 1997) The Maytiguid Limestone is probably correlative to the Bailan Limestone of Tablas Island; Sumbiling Limestone in Bataraza and Brooke's Point, southern Palawan; and the _Nummulite-_ bearing part of the St. Paul Limestone and Nido Limestone of central and offshore Palawan. (_see [Maytiguid Limestone](Maytiguid%20Limestone.md)_)

@@ -1,0 +1,3 @@
+﻿  
+
+The Mahaba Sandstone comprises the upper member of the Caliling Formation in Negros Island. It consists of a succession of grit to pebbly sandstone with coral fragments and mollusks. The Mahaba Sandstone apparently represents the back-reef zone of the reef build-up (Amiscaray & Quiel, 1987). Foraminiferal and nannoplankton assemblages reported by Muller and others (1989) correspond to N20 - N23 and NN19 – NN 20/21, respectively, indicating Late Pliocene to Pleistocene age (Piacenzian – Late Pleistocene). The thickness of the formation as estimated by Melendres and Barnes (1957) is at least 500 m along Talave River. (_see [Caliling Formation](Caliling%20Formation.md)_)

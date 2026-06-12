@@ -1,0 +1,3 @@
+﻿  
+
+Kelly Diorite is the local name for the Middle Miocene hornblende diorite that intrudes the Zigzag Formation at the Kelly Gold Mine at Bgy. Gumatdang, Itogon, Benguet. The Kelly Diorite and Zigzag Formation are the primary hosts of the gold-sulfide veins at the Kelly mine area. The Kelly is apparently equivalent to the Itogon Quartz Diorite. (_see [Itogon Quartz Diorite](Itogon%20Quartz%20Diorite.md)_)

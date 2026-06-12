@@ -1,0 +1,3 @@
+  
+
+The Bagon Tonalite was named by Sillitoe and Angeles (1985) for the quartz diorite exposures in the mine area of Lepanto Consolidated Mining Co., Mankayan, Benguet. Mine geologists previously referred to it as Bagon Intrusive. Radiometric K-Ar dating of hornblendes and biotite from the Bagon indicates an age of 12-13 Ma, equivalent to late Middle Miocene (Sillitoe and Angeles, 1985). It is considered as the local equivalent of the Itogon Quartz Diorite in the Baguio District. (_see [Itogon Quartz Diorite](Itogon%20Quartz%20Diorite.md)_)

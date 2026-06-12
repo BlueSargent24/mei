@@ -1,0 +1,3 @@
+﻿  
+
+The pillow lavas and breccias at Maranat Creek, north of Bacungan tectonic window and in Iratag River was designated as Maranat pillow lavas by MMAJ-JICA (1990). It was earlier designated as Irahuan Metavolcanics by De los Santos (1959) which was described as altered basaltic flows unconformably overlying paraschists. It is widely distributed in central and southern Palawan as massive basalt and basaltic pillow lavas and breccias. In places, cherty shale and chert were observed intercalated with the basalt. Overlying the basalt in the Iratag window are pelagic clastic rocks of the [Espina Formation](Espina%20Formation.md) which represent the sedimentary cover of the ophiolite.

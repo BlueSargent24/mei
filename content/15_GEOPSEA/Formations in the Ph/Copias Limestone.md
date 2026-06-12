@@ -1,0 +1,3 @@
+  
+
+The Copias Limestone of Encina and Del Rosario (1978) at Barrio Gambang, Atok, Benguet province, is probably equivalent to the [Mirador Limestone](Mirador%20Limestone.md). This massive, cream to pink limestone body is 150 m thick and reported to be confined within the pyroclastic beds of Klondyke Formation, about 200 m above its base. The limestone contains Middle Miocene to Late Miocene foraminifera that was reported by the Paleontological Section of the Bureau of Mines and Geosciences (file report, 1977) as probably reworked.

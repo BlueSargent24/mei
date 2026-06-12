@@ -1,0 +1,3 @@
+ 
+
+The Twin Peaks Formation was named by Durkee and Pederson (1961) for the bioherm-mudstone complex below the Klondyke Formation at Camp Three, Tuba, Benguet. The 52-m thick complex has a gradational relationship with the top of the main body of the Kennon Limestone. Balce and others (1980) consider the Twin Peaks as a member of the Kennon Limestone. (_see [Kennon Limestone](Kennon%20Limestone.md)_)

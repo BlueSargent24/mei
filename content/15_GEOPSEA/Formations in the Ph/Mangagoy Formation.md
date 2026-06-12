@@ -1,0 +1,3 @@
+﻿  
+
+The Mangagoy Formation was originally named by Vergara and Spencer (1957) for the sedimentary sequence at Mangagoy, Bislig, Surigao del Sur. In the Rosario-Banahaw mine area, the Mangagoy consists of a sequence of dark gray conglomerate, dark gray, thin-bedded sandstone and shale (Vergara and Spencer, 1957). These authors describe a thick and massive corralline limestone comprising the top of the formation. The Mangagoy, which was dated Late Oligocene, probably corresponds to the Mabuhay Formation of the northern Pacific Cordillera. (_see [Bislig Formation](Bislig%20Formation.md)_)

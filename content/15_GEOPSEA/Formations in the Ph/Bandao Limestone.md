@@ -1,0 +1,3 @@
+  
+
+The Bandao Limestone was named by Corby and others (1951) for the thin bedded orbitoid-bearing limestones along the east coast of Bulalacao Bay in Mindoro. Sandstones, mudstones and conglomerates are associated with the limestone. Although similar to the Bulalacao Limestone, the Bandao Limestone carried Late Oligocene fossils while those of Bulalacao are Early Miocene. The Bandao could be equivalent to the Bugtong Formation. (_see [Bugtong Formation](Bugtong%20Formation.md)_)

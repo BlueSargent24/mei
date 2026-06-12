@@ -1,0 +1,3 @@
+﻿  
+
+The Tamala Formation is a weakly metamorphosed sequence of basaltic volcanigenic conglomerates/breccias, sandstones, siltstones, basaltic flows (including pillow lavas) and minor marbleized limestones (Ringenbach, 1992) on the Infanta strip opposite Polillo Island. It is overlain by the **[Marcelino Limestone](Marcelino%20Point%20Limestone.md)** which has been dated early Middle Eocene (Ringenbach, 1992). The Tamala is probably equivalent or partly equivalent to the [Anawan Formation](Anawan%20Formation.md) on Polillo Island.

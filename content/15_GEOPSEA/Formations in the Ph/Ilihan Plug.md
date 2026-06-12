@@ -1,0 +1,3 @@
+﻿  
+
+The Ilihan Plug is an informal unit that is considered part of the Jagna Andesite, a porphyritic hornblende andesite body conspicously towering over the Carmen Formation exposed about 5 kms south of Tubigon, Bohol. It has an elevation of about 240 m above sea level. The rock is essentially composed of andesine, hornblende, glass, apatite and opaque ores with clinopyroxene and biotite in negligible amounts. (_see [Jagna Andesite](Jagna%20Andesite.md)_)

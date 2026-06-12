@@ -1,0 +1,3 @@
+﻿  
+
+The Tagabaca Member of the Dacao Formation of Florendo (1987) in southwest Leyte is probably equivalent to the Taog Formation. The Tagabaca is an Early Miocene clastic sequence consisting of basal sandstone, siltstone and mudstone and upper conglomerate beds exposed in one of the tributaries of the Kantaring River, where it was observed to rest directly over the Kantaring Limestone. (_see [Taog Formation](Taog%20Formation.md)_)

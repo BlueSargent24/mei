@@ -1,0 +1,3 @@
+  
+
+The Bokod Formation was named by Maleterre (1989) for the exposures of sedimentary rocks at Bokod, along the Baguio-Cagayan Basin road. It lies above the Columbus Formation and is bounded by the Bokod Fault to the west and Pingkian Fault to the east. As described by Maleterre (1989), the Bokod consists of red and green beds of tuffs, volcanic sandstones and andesitic conglomerates whose total thickness could exceed 1,000 m. It is considered equivalent to the Zigzag Formation. (_see [Zigzag Formation](Zigzag%20Formation.md)_)

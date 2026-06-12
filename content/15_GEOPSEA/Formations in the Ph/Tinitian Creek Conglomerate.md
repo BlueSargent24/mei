@@ -1,0 +1,3 @@
+﻿  
+
+The Tinitian Creek Conglomerate of UNDP (1985) is probably a facies of the Boayan Formation that could represent its lateral extension. It is mainly conglomerate with interbedded mudstone and sandstone. The clasts consist of rounded orange to brown chert, quartzose sandstone, quartzite and mudstone set in quartzose sandy matrix. Faure and Ishida (1990) included this formation and the Sagasa Point Tectonic Complex (UNDP, 1985) in their turbidite and slump deposits. (_see [Boayan Formation](Boayan%20Formation.md)_)

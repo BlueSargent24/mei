@@ -1,4 +1,7 @@
 ---
 title: Welcome to Quartz
 ---
-[[Earthscope Seismology.md]]
+[[Minerals Database.base]]
+[[Crystallography]]
+
+[[Crystallography.canvas]]

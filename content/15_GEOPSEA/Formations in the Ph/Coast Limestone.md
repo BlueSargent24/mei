@@ -1,0 +1,3 @@
+  
+
+The Coast Limestone constitutes the lower member of the Liguan Formation. It was named after the limestone along the southern coast of Cagraray Island. The limestone crops out east of Liguan Point, in the vicinity of Manila and Barat and across Caracaran to Bugtong Point. It is white to gray, massive to thinly bedded. _Miogypsina_ and _Lepidocyclina_ were identified in samples from this member. The thickness is around 50 m. (_see [Liguan Formation](Liguan%20Formation.md)_)

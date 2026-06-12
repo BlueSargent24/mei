@@ -1,0 +1,3 @@
+  
+
+The Caraballo Group was previously designated by MMAJ-JICA (1977) for the most extensively exposed Eocene rocks in the Northern Sierra Madre, subdivided into [Formations I, II and III](Formations_I_II_III.md). Ringenbach (1992) renamed the Caraballo Group as the Caraballo Formation. This formation is composed of a proximal and distal volcano-sedimentary facies. (_see [Caraballo Formation](Caraballo%20Formation.md)_, above)

@@ -1,0 +1,3 @@
+﻿  
+
+The Marcelino Point Limestone was named by Ringenbach (1992) for the limestone at Marcelino Point, north of Infanta, Quezon. It is a dark gray to black bioclastic limestone which was considered by Ringenbach (1992) to be most likely unconformable over the Tamala Formation. The limestone contains numerous nummulites and Alveolina, which was dated early Middle Eocene (Ringenbach, 1992). The Marcelino Point Limestone is probably equivalent to the Masungi Limestone. (_see [Masungi Limestone](Masungi%20Limestone.md)_)

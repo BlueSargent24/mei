@@ -1,0 +1,5 @@
+  
+
+The Cogon in Tablas Island represents the upper member of the Binoog Formation. As exposed at Cogon River, this unit consists of successions of thin calcareous and tuffaceous mudstone beds with wacke interbeds and intercalations of volcanic breccia. The mudstone varies from brown to cream to bluish gray. The interbedded wacke is essentially composed of quartz, volcanic clasts, serpentine, schist and ferromagnesian minerals. The intercalated volcanic breccia is basaltic in composition, consisting essentially of plagioclase, augite and labradorite with minor amounts of bowlingite and glass shards.
+
+Typical exposures of the Cogon Member may be found along Carolina River and Barangay Manlilico in Odiongan. Intercalations of volcanic breccia and sedimentary rocks were observed in the northeast-southwest trending trough north of Alcantara and in Barrio Canguyo, Sta. Fe (Liggayu, 1964). They also crop out in Rizal, Sicop, Lutod Bukid, Cogon and Carolina rivers. Planktic foraminiferal species in the clastic sequences indicate a Middle Miocene age. (_see [Binoog Formation](Binoog%20Formation.md)_)

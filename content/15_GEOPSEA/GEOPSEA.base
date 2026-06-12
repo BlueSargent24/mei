@@ -1,0 +1,50 @@
+filters:
+  and:
+    - file.folder.contains("15_GEOPSEA")
+properties:
+  file.backlinks:
+    displayName: Grouping
+views:
+  - type: table
+    name: Stratigraphic Groups
+    filters:
+      and:
+        - file.folder == "15_GEOPSEA/Stratigraphic Groupings"
+    order:
+      - file.name
+      - basement_rocks
+      - stratigaphic_character
+      - Age
+      - Distribution.
+      - Distribution
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: Age
+        direction: ASC
+      - property: stratigaphic_character
+        direction: ASC
+    columnSize:
+      file.name: 278
+      note.basement_rocks: 220
+      note.Age: 115
+  - type: table
+    name: Formations
+    filters:
+      and:
+        - file.folder == "15_GEOPSEA/Formations in the Ph"
+    order:
+      - file.name
+      - Lithology
+      - Distribution
+      - Age
+      - file.backlinks
+    sort:
+      - property: file.backlinks
+        direction: DESC
+      - property: Lithology 
+        direction: ASC
+    columnSize:
+      file.name: 278
+      note.Distribution: 340
+      note.Age: 191

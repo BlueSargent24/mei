@@ -1,0 +1,3 @@
+﻿  
+
+The Paton-an Formation of Melendres and Barnes (1957) is probably equivalent to the clastic member of the Talave Formation. It consists of calcareous clastic rocks with thin lenses of coal and conglomerate which reportedly overlies and intertongues with the Talave Formation (Melendres and Barnes, 1957). The combined maximum thickness of the conglomerate (70 m), limestone (400 m) and clastic member (490 m) is 960 m. _(see [Talave Formation](Talave%20Formation.md)_)

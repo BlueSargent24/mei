@@ -1,0 +1,3 @@
+﻿  
+
+In Lubang Island, Occidental Mindoro a small granodiorite stock previously called Lubang Granite by Elicaño (1924) crops out on the isthmus between Looc and Tubahin bays. It is intrusive into the schists and gneisses, is light colored, coarse grained, partly gneissose and composed chiely of quartz and plagioclase with lesser orthoclase, hornblende, muscovite and / or biotite. The Lubang is probably equivalent to the Pagbahan Granodiiorite in Mindoro. (_see [Pagbahan Granodiorite](Pagbahan%20Granodiorite.md)_)

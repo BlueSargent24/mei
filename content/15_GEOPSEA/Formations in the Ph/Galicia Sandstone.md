@@ -1,0 +1,3 @@
+  
+
+The Galicia Sandstone is a member of the Bilbao Formation. It underlies a wide belt from Mancao on the west to the area north of Gaba at the northern coast of Batan Island, Bicol region. The Galicia consists of coarse to fine-grained sandstone, which is locally conglomeratic, with interbeds of shale. This sandstone member has a thickness of 470 m. (_see [Bilbao Formation](Bilbao%20Formation.md)_)

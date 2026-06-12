@@ -1,0 +1,3 @@
+﻿  
+
+The Mingan Formation of Rutland (1967) consists of pyroclastic rocks varying from coarse unsorted volcanic breccias to tuffs. These are well exposed in the Bongabon-Gabaldon area, Nueva Ecija. The age of the formation was estimated by BMG (1981) to be Late Eocene. The Mingan probably represents the local counterpart of the Caraballo Formation in northern Sierra Madre. (_see [Caraballo Formation](Caraballo%20Formation.md)_)

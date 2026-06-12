@@ -1,0 +1,10 @@
+---
+Lithology: Spilitic and basic to intermediate volcanic flows and breccias with intercalated metasedimentary rocks
+Stratigraphic_relations: Overlain by the Bayabas Formation
+Distribution: Norzagaray, Bulacan; Laur-Dingalan, Nueva Ecija to Angono and Tanay, Rizal
+Age: Late Cretaceous
+Named_by: De la Rosa and others (1978)
+---
+
+
+The oldest rocks on the east side of the Central Valley Basin is the Barenas-Baito Formation. This was named by De la Rosa and others (1978) for the rocks cropping out along Barenas and Baito creeks about 25 km east-northeast of Norzagaray, Bulacan. These rocks are also exposed in the areas around the Laur-Dingalan Fault Zone in Nueva Ecija in the north down to Angono and Tanay, Rizal in the south (Revilla and Malaca, 1987). The formation is made up of spilitic and basic to intermediate volcanic flows and breccias with intercalated metasedimentary rocks. The latter are thin to medium bedded, varicolored indurated sandstones, siltstones, argillites, chert and local lenses of conglomerate. As used by Revilla and Malaca (1987), this unit includes the pillow basalt of the so-called Angat Ophiolite, the volcaniclastic member of the **[Maybangain Formation](Maybangain%20Formation.md)** in southern Sierra Madre and the **[Coronel](Coronel%20Formation.md)** and **[Dingalan](Dingalan%20Formation.md)** formations of Rutland (1967) in the Laur-Dingalan fault zone. On the other hand, this sequence is considered by Ringenbach (1992) to be equivalent only to the volcanic carapace and sedimentary cover of the Angat Ophiolite, and is therefore below the Maybangain Formation and equivalent to the **[Kinabuan Formation](Kinabuan%20Formation.md)**. Paleontological dating of radiolarian mudstone samples from the Tayabasan River indicates a Late Turonian or Coniacian age (early Late Cretaceous) for the formation (Blome, 1985).

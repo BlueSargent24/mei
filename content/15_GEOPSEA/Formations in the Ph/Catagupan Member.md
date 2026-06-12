@@ -1,0 +1,3 @@
+  
+
+The Catagupan is a member of the [Balabac Formation](Balabac%20Formation.md) on western Balabac Island. It consists of shale and sandstone with minor limestone beds. The shale is thick bedded while the sandstone is thin-bedded and arkosic. The limestone is thinly bedded, gray, arenaceous and crops out mostly in the Catagupan River Valley at Balabac Island. The age is Early Miocene - Middle Miocene as indicated by the presence of _Lepidocyclina_ and _Miogypsina_ assemblages. The thickness ranges from 168 m to 600 m.

@@ -1,0 +1,3 @@
+﻿  
+
+The Paitan is the lower member of the Escalante Formation in Negros Occidenal. It consists of an alternation of sandstone, siltstone, mudstone and marl. White to cream dense micritic limestone occurs in the middle. Intercalations of turbiditic layers and limestone breccias that reach a thickness of 500 m have been described by Jurgan (1980). (_see [Escalante Formation](Escalante%20Formation.md)_)

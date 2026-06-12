@@ -1,0 +1,3 @@
+﻿  
+
+The Mt. Mabaho Monzonite of UNDP (1984) refers to a small intrusive body of monzonite and syenite at Mt. Mabaho in Agusan del Norte. It is also well exposed along Pirada and Humanhon creeks. The rock is readily recognized in the field by its potash feldspar content. The monzonite is intrusive into the Humandum Serpentinite, Concepcion Greenschist of UNDP (1984) and probably what is part of the Tigbauan Formation. It is considered equivalent to the Asiga Diorite. (_see [Asiga Diorite](Asiga%20Diorite.md)_)

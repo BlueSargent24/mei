@@ -1,0 +1,3 @@
+﻿  
+
+The Irahuan Meavolcanics of De los Santos (1959) consists of altered basaltic flows unconformably overlying paraschists. It is widely distributed in central and southern Palawan as massive basalt and basaltic pillow lavas and breccias. In places, cherty shale and chert were observed intercalated with the basalt. It was later designated as Espina Formation by Basco (1964) and Maranat Pillow Lavas by MMAJ-JICA (1990). (_see [Espina Formation](Espina%20Formation.md)_)

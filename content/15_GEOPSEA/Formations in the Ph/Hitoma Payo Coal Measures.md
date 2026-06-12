@@ -1,0 +1,3 @@
+  
+
+The Hitoma-Payo Coal Measures represents the middle member of the Eocene [[Payo Formation]] of Miranda and Vargas (1967) that underlies the Payo and Hitoma areas in the northern half of Catanduanes Island. It is a folded sequence of conglomerates, sandstones, siltstones and limestone overlying the Yop Formation. Shale and limestone make up the bulk of this member. Conglomerates, sandstones and siltstones mainly comprise the base of the sequence. The shale is associated with the coal beds. The Hitoma-Payo has an estimated thickness of 175 m. (_see [Payo Formation](Payo%20Formation.md)_)

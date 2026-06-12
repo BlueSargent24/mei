@@ -1,0 +1,3 @@
+  
+
+The Argao Group (Barnes and others_,_ 1958) represents the oldest [[Sedimentary Deposits]] mapped in southern Cebu. Its type locality is along the upper course of the Argao River. A composite type section for the unit was indicated along Maangtud Creek and Calagasan Creek (Huth, 1962). It is composed of three formations - [Calagasan Formation](Calagasan%20Formation.md), [Butong Limestone](Butong%20Limestone.md) and [Linut-od Formation](Linutod%20Formation.md). Fossil contents identified in the Argao Group ranges from Late Oligocene to Early Miocene.

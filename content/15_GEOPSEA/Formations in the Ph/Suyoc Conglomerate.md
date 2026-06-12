@@ -1,0 +1,3 @@
+﻿  
+
+The Suyoc Conglomerate was named by Gonzales (1956) for the conglomerates in the vicinity of Suyoc overlying the Balili Formation at Mankayan, Benguet. The conglomerate contains well-rounded pebbles and cobbles of chert, epidotized volcanic rocks and intraformational limestones. However, Baker (1983) and Ringenbach (1992) regard the relationship between the comglomerate and volcaniclastic rocks as intertonguing, and therefore the conglomerate could be regarded as part of the Balili Formation. Nevertheless, the Suyoc Conglomerate could still be a distinct unit as indicated by Middle Miocene dating of conglomerate. The Suyoc may be correlated with the Klondyke Formation. (_see [Klondyke Formation](Klondyke%20Formation.md)_)

@@ -1,0 +1,3 @@
+﻿  
+
+In southern Leyte, a probable lateral extension of the San Isidro Limestone is the Matalom Limestone of Florendo (1987). It refers to the sequence of bioclastic deposits and coralline limestone extensively exposed in the peripheral and coastal areas of southern Leyte. The calciclastics are composed of calcarenite, calcisiltite and calcirudite with occasional calcareous mudstone. The Matalom unconformably overlies the Inopacan Formation. The Limestone is dated Pleistocene (MMAJ-JICA, 1985_). (see [San Isidro Limestone](San%20Isidro%20Limestone.md)_)

@@ -1,0 +1,3 @@
+  
+
+The Cabugao Subgreywacke of Miranda and Vargas (1967), consisting of well bedded sandstones and mudstones with local conglomerate interbeds, constituted the lower member of the Payo Formation of Miranda and Vargas (1967). Clasts of the basal conglomerate of the Cabugao include greywacke pebbles and cobbles set in a calcareous matrix. It was previously named Cabugao Graywacke by Capistrano (1951) for the exposures of sandstones at Bgy. Cabugao, Bato, Catanduanes Island. Its maximum thickness could reach 1,320 m. The Cabugao is correlative to the Genitigan Conglomerate of Meek (1938).

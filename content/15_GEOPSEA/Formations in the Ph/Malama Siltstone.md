@@ -1,0 +1,3 @@
+﻿  
+
+The Malama Siltstone of Corby and others (1951) is one of the four members of the Talisay Formation. It is well exposed in the southern part of the Albay Syncline, forming rolling hills and valleys between the Pantao mountains and the Ligao-Oas ranges. The siltstone is thick bedded, gray to brown and fossiliferous with calcareous shale interbeds. It is about 1800 m thick. Farther north, it is unconformable to the underlying Tinalmud Formation and either conformably overlies the Paulba or merges with the Aliang Siltstone.

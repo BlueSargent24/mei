@@ -1,0 +1,3 @@
+﻿  
+
+The Saugan Formation of San Jose Oil Company (in BM Petroleum Division, 1966), named for exposures along Saugan Creek east of Bunawan in southeastern Agusan del Sur, may be considered equivalent to the Bislig Formation. It consists of a sequence of alternating gray shale and clayey sandstones with interbeds of gray, thin-bedded limestone and coal. It is dated Early Miocene based on foraminifera and estimated to be 300 m thick at the type locality. (_see [Bislig Formation](Bislig%20Formation.md)_)

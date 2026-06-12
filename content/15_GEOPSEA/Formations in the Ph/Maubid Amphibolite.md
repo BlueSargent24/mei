@@ -1,0 +1,3 @@
+﻿  
+
+The Maubid Amphibolite was named by UNDP (1987) for the metamorphic rocks east of Buenavista in Bohol Island. Outcrops exposed at Maubid River are banded and foliated, consisting of two inliers of amphibolite made up of plagioclase and hornblende with minor amounts of actinolite, apatite, sphene and opaque minerals. It is considered part of the Alicia Schist. (_see [Alicia Schist](Alicia%20Schist.md)_)

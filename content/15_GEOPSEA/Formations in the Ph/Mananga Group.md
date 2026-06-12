@@ -1,0 +1,3 @@
+﻿  
+
+The Mananga Group was designated by Balce (1970) for the sequence of formations exposed at Mananga Valley. The Group is composed of the [Tuburan Limestone](Tuburan%20Limestone.md), [Cansi Basalt](Cansi%20Basalt.md) and [Pandan Formation](Pandan%20Formation.md). These units were found to have intertonguing, gradational or conformable relation to each other. The Group occurs mainly in the central highlands, either in fault contact or unconformable to the younger formations.

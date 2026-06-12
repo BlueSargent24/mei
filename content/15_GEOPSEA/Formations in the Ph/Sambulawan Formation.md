@@ -1,0 +1,3 @@
+﻿  
+
+The Sambulawan Formation of UNDP (1984) is described as a sequence of conglomerate, siltstone, limestone, wackes, minor mudstones, and basalt breccia. Paleontological dating indicates a Late Oligocene-Early Miocene age for the Sambulawan (MMAJ-JICA, 1990). This unit is exposed on the beach north of Bituon, Masbate Island. High angle crossbedding observed at Sambulawan River suggests a fluvial or shallow marine depositional environment. The formation is unconformably overlain by Middle Miocene Lamon Andesites of MMAJ-JICA (1990) as observed along Lamon, Tugbo, and Sambulawan Rivers. The Sambulawan could correspond to the [Nabangig Formation](Nabangig%20Formation.md).

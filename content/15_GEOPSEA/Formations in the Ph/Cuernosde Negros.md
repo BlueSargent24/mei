@@ -1,0 +1,3 @@
+  
+
+Cuernos de Negros in southern Negros is an inactive volcano associated with the Negros arc. Its eruptive product is designated as Balinsasayao Formation. Radiometeric K-Ar dating for Cuernos de Negros ranges from 0.31 to 1.97 Ma (Sajona and others, 2000). The pile of andesite flows and pyroclastic rocks comprising the Balinsasayao are estimated to total at least 950 m thick (Tebar, 1984 in Ayson, 1987). (_see also [Canlaon Volcanic Complex](Canlaon%20Volcanic%20Complex.md)_).

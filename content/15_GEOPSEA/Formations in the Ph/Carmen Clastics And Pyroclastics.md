@@ -1,0 +1,3 @@
+  
+
+The Carmen Clastics and Pyroclastics was named by Froehlich and Melendres (1960) for the exposures of sandstones, mudstones, pyroclastic rocks and volcanic flows at Carmen, North Cotabato. It was renamed Koronadal Formation by MGB (2004) to avoid confusion with another Carmen Formation located in Bohol province. The formation occurs as lenticular belts covering the gentle slopes of Mounts Apo, Parker and Matutum. It also crops out at the fringes of the Allah and Koronadal Valleys_. (see [Koronadal Formation](Koronadal%20Formation.md)_)

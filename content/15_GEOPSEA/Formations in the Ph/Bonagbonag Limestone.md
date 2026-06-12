@@ -1,0 +1,3 @@
+  
+
+The Cretaceous Bonagbonag Limestone was named by De los Santos and Weller (1955) for the limestone exposure at Bonagbonag Point. on the west coast of Catanduanes Island. The limestone is associated with minor beds of shale and siltstone. The limestones were later identified by David (1994) as olistoliths of megablock proportions of a late late Cretaceous olistostrome unit designated as Codon Formation. (_see [Codon Formation](Codon%20Formation.md)_)

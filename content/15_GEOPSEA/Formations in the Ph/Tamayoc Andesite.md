@@ -1,0 +1,3 @@
+ 
+
+The Tamayoc Andesite of Santos-Yñigo (1949), renamed Tamayoc Volcanics by Florendo (1981), is equivalent to the [Igsawa Pyroclastics](Igsawa%20Pyroclastics.md) of UNDP (1986) which is coeval to the Mayos Formation (UNDP, 1986) in northwestern Antique. The Tamayoc is well exposed along the Culiatan Range west of Patnongon municipality and along the eastern flank of Maglaya Range. (_see [Mayos Formation](Mayos%20Formation.md)_)

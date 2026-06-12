@@ -1,0 +1,3 @@
+  
+
+The Asiga constitutes the lower member of the Lubuagan Formation in Cagayan Valley. Previously, it was mapped as a formation by Durkee and Pederson (1961) who subdivided the Mabaca River Group into three formational units. These units were reduced to member status by Gonzales and others (1978). The Asiga was named after Barrio Asiga along Mabaca River west of Pinukpok, Apayao. It consists mainly of interbedded shale and greywacke and has an estimated thickness of 1500 m. The other two members comprising the Lubuagan are the middle Balbalan Sandstone and upper Buluan member. (_see [Lubuagan Formation](Lubuagan%20Formation.md)_)

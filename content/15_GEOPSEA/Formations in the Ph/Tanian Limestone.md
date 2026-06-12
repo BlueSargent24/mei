@@ -1,0 +1,3 @@
+﻿  
+
+The Tanian Limestone of Santos (1968) is a member of the [Singit Formation](Singit%20Formation.md). It was originally named **[Mountain Limestone](Mountain%20Limestone.md)** by Corby and others (1951). It crops out in the vicinity of barrios Passes and Igcabugao at the upper reaches of Tanian, Tigmanaba, Igbaras, and Oysoy rivers in Miagao and northwest of Tabuungan, all in Iloilo. It consists of thick bedded, fragmental to detrital limestone with thin and friable layers of sandstone. On the basis of large foraminiferal genera of _Lepidocyclina_ and _Miogypsina_, the Tanian Member was dated Middle Miocene. It has a thickness of 150 m. (_see Singit Formation_)

@@ -1,0 +1,3 @@
+  
+
+The Buso and Altar Formation was named by Melendres and Comsti (1951) for the sequence of sandstone and limy conglomerate at Buso, north of Mati, Davao Oriental. Melendres and Comsti (1951) also designated Mount Bilhogan and Batunan conglomerates as a member of the formation. These are well exposed, respectively, at Mt. Bilhogan near Sigaboy, and Batunan east of Mati. The Buso and Altar Formation is equivalent to the Sigaboy Formation of MGB (1992). (_see [Sigaboy Formation](Sigaboy%20Formation.md)_)

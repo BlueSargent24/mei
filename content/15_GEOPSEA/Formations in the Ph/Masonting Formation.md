@@ -1,0 +1,3 @@
+﻿  
+
+The Masonting Formation of Florendo (1987), exposed along the Masonting River in Malitbog, western Leyte, is probably equivalent to the Bata Formation. The Masonting consists of volcaniclastic rocks and andesite flow breccias with intertonguing tuffaceous marl, sandstone and minor pumice beds. It overlies the Danao Limestone of Florendo (1987), which is equivalent to the Calubian Limestone. Exposures are scattered in the San Pedro – Malitbog area around Sogod Bay. The formation is dated Late Miocene to Pliocene (Florendo, 1987). (_see [Bata Formation](Bata%20Formation.md)_)

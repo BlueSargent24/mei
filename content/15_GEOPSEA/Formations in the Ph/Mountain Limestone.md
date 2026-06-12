@@ -1,0 +1,3 @@
+﻿  
+
+The Mountain Limestone was originally named by Corby and others (1951) and renamed _Tanian Limestone Member_ by Santos (1968). The Tanian is a member of the Singit Formation. It crops out in the vicinity of barrios Passes and Igcabugao at the upper reaches of Tanian, Tigmanaba, Igbaras, and Oysoy rivers in Miagao and northwest of Tabungan, all in Iloilo. It consists of thick bedded, fragmental to detrital limestone with thin and friable layers of sandstone. On the basis of large foraminiferal genera of _Lepidocyclina_ and _Miogypsina_, the Tanian Member was dated Middle Miocene. It has a thickness of 150 meters. (_see [Singit Formation](Singit%20Formation.md)_)

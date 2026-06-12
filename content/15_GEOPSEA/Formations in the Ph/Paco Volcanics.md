@@ -1,0 +1,3 @@
+﻿  
+
+The Paco Andesite (UNDP, 1987), Paco Volcanics (Tebar and Pagado, 1989) and the Maniayao Volcanics (Santos-Yñigo, 1944) are represented by domes and andesitic and dacitic flows and pyroclastic deposits that indicate several magmatic episodes. Radiometric dating obtained from an andesite sample indicate a Pleistocene age based on whole rock dating of 1.08 ± 0.061 Ma, while the feldspar phenocrysts gave a dating of 1.781 ± 0.091 Ma (Sajona, 1997). (_see [Maniayao Andesite](Maniayao%20Andesite.md)_)

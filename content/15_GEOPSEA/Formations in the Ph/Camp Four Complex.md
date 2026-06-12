@@ -1,0 +1,3 @@
+  
+
+The Camp Four Complex was named by Malicdem (1971) for the swarm of dikes intruded into volcanic rocks of the Pugo Formation and diorite porphyry at Camp 4, Tuba, Benguet. The dikes include hornblende diorite porphyry, quartz-bearing diorite porphyry, hornblende andesite, pyroxene-hornblende andesite and pyroxene-hornblende lamprophyre. It is considered a local equivalent of the Emerald Creek Complex of Schafer (1954) and is correlative to the Balacbac Andesite. (see _[Balacbac Andesite](Balacbac%20Andesite.md)_)__

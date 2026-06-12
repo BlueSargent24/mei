@@ -1,0 +1,3 @@
+﻿  
+
+The Kias Creek Dike Complex was used by UNDP (1987) in reference to the dike swarms along Kias Creek at Camp 4, Tuba, Benguet. It is synonymous with the Camp 4 Complex of Malicdem (1971) and considered equivalent to the Emerald Creek Complex of Schafer (1956) which may be correlated with the Balacbac Andesite. The dikes include various andesitic rocks that vary in terms of predominat phenocrysts and lamprophyric and appinite intrusions. (_see [Camp 4 Complex](Camp%20Four%20Complex.md) and [Balacbac andesite](Balacbac%20Andesite.md)_)

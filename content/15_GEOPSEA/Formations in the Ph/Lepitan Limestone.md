@@ -1,0 +1,3 @@
+﻿  
+
+The Lepitan Limestone is a member of the Caguray Formation in southwestern Mindoro. It is best exposed at a gorge cut by the Batangan River near confluence with Kayakian River. The limestone consists mostly of packstones and grainstones with abundant large foraminifera and algal debris. The limestone overlies the **[Piatt Mudstone](Piatt%20Mudstone.md)** and **[Kayakian Shale](Kayakian%20Shale.md)** but all three units are dated Late Eocene (_see [Caguray Formation](Caguray%20Formation.md)_).

@@ -1,0 +1,3 @@
+﻿  
+
+The Kiblawan Limestone of Milanes (1981) is probably equivalent to the limestone of Gumasa Formation. The Kiblawan occupies the higher elevations along the western parts of Magsaysay, Kiblawan and in barangays Lapla and Roxas in Sulop, Saranggani Penisula. Milanes (1981) describes the Kiblawan Limestone as coralline and porous, often marly, and without any apparent bedding. It is also massive in some places. (_see [Gumasa Formation](Gumasa%20Formation.md)_)

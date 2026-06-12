@@ -1,0 +1,3 @@
+  
+
+The Camisog Formation was previously named Camisog Sandstone by Corby and others (1951) for the sequence of alternating thin-bedded shales and sandstones at Camisog Peninsula, Cagraray Island. The lower part has pumiceous beds and the upper part is characterized by black tuffaceous sandstone with lenses of silty carbonaceous shale and conglomerate. Its age is Middle Miocene and its estimated thickness is 450 m.

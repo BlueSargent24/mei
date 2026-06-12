@@ -1,0 +1,3 @@
+  
+
+The Banoy Volcanics was named by Wolfe and others (1980) for the andesitic rocks underlying Mt. Banoy in Taysan, Batangas. It is considered by Wolfe and others (1980) as a stratovolcano that generated andesitic ejecta, including agglomerates. It is apparently equivalent to the [Talahib Andesite](Talahib%20Andesite.md) of Avila (1980) and the Nasugbu Volcanic Complex. (_see [Nasugbu Volcanic Complex](Nasugbu%20Volcanic%20Complex.md)_)

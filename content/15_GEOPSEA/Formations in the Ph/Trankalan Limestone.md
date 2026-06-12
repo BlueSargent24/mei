@@ -1,0 +1,3 @@
+﻿  
+
+The Trankalan Limestone is a member of the Escalante Formation in Negros Occidental. It is pinkish, cream to white, generally thick bedded, partly brecciated, with fragments of head and branching corals, algae and locally with abundant orbitoids. Patch reefs are also locally developed. Porth and others (1989) consider the Trankalan as time equivalent of the lower part of the clastic Escalante Formation_. (see [Escalante Formation](Escalante%20Formation.md)_)

@@ -1,0 +1,3 @@
+  
+
+The Aparri Gorge Sandstone was named by Corby and others (1951) for the sandstone with occasional shale stringers and conglomerate lenses at Aparri Gorge in O’Donnell, Tarlac. Its thickness varies from 500 m in the central part to 375 m in the south where it also becomes increasingly tuffaceous. It comprises the upper member of the Malinta Formation. (_see [Malinta Formation](Malinta%20Formation.md)_).

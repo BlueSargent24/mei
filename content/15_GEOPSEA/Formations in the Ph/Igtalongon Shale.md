@@ -1,0 +1,3 @@
+﻿  
+
+The Igtalongon Shale is a member of the Singit Formation in Iloilo. Santos (1968) gave the name Igtalongon to the predominantly fine grained sedimentary rocks at Barrio Igtalongon, Igbaras, Iloilo along Tanian River. According to UNDP (1986), it occupies a kilometer wide northeast trending valley between the Sewaragan to the west and the ridges underlain by the Barasan Sandstone to the east. The member consists largely of turbidites, wackes, conglomerates and shales. The thickness is estimated to be 600 to 1,000 m and was dated Middle Miocene based on the foraminiferal index species _Globorotalia fohsi fohsi_ Cushman and Ellisor. (_see [Singit Formation](Singit%20Formation.md)_)

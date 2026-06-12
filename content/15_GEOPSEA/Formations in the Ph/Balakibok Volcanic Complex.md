@@ -1,0 +1,3 @@
+  
+
+Mt. Balakibok Volcanic Complex is part of the Western Volcanic Belt of the Late Miocene to Recent Bataan Volcanic Arc Complex. Mt. Balakibok and similar remnant strato-volcanoes, such as Mt. Cuadrado and older volcanic deposits around Mts. Mariveles and Pinatubo, represent volcanic complexes that have been dated Late Miocene. The complex consists of andesitic to dacitic volcanic domes, plugs, pyroclastic flows and proximal fall deposits and their epiclastic derivatives (Ramos and others, 2000). The basal sections of Balakibok are intruded by granodiorite and diorite porphyries. (_see [Bataan Volcanic Arc Complex](Bataan%20Volcanic%20Arc%20Complex.md)_)

@@ -1,0 +1,3 @@
+  
+
+The Barasan Sandstone (Santos, 1968) is the uppermost member of the Singit Formation. It was named after Barrio Barasan in Igbaras, Iloilo. It is best expressed topographically in the western flank of the Panay Central Basin as hogbacks and cuestas at 300 to 400 m elevation. The member is composed of thick-bedded, coarse-grained conglomeratic sandstone with thin intercalations of shale. Santos (1968) dated the member as Late Miocene but later workers found fossils which point to a late Middle Miocene age. The measured thickness is 2,034 along Ulian River and 1,678 along Tigum River (Santos, 1968). It was deposited probably within the outer neritic zone. (_see [Singit Formation](Singit%20Formation.md)_)

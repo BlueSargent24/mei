@@ -1,0 +1,11 @@
+  
+
+The Babuyan Subprovince is composed mainly of the submarine Lubao-Babuyan Ridge between Luzon and Taiwan. The ridge forms islands, the northernmost of which is Lubao in Taiwan and the southernmost, the Babuyan Islands Group. The ridge is about 185 km wide just north of Luzon and tapers northward. It is cut by several channels and troughs.
+
+The Babuyan Islands Group is composed of five islands with Calayan being the largest. The Batanes Islands Group, in contrast, constitutes the northernmost part of the Philippine archipelago. It is composed of 10 islands with Itbayat, having 95 sq. km land area, being the largest.
+
+Most of the islands are underlain by basalt and andesite flows surrounded by reef limestone fringing the shoreline. Limestone terraces are noticeable features suggesting intermittent emergence.
+
+This subprovince is termed as the Babuyan Segment by Defant and others (1990) and as the Bashi Segment by Yang and others (1996). It is described by Yang and others (1996) as having a double arc structure consisting of a western volcanic chain (WVC) and a younger eastern volcanic chain (EVC) based on their geographic distribution, eruption ages, geomorphology, and the geochemical signatures of the magmas. These volcanic chains are about 50 km apart just north of Luzon (18oN) and merge into a single volcanic chain near Batan island (20oN). The EVC consists of Batan (Mt. [[Iraya]]), [[Babuyan Claro]], [[Didicas]], [[Camiguin]], Mt. [[Cagua]], Y'Ami, North, Mabudis, Siayan, Diogo, Balintang, Hsiaolanyu, and Lutao. The first five islands mentioned are still active. On the other hand, the WVC is composed of Batan (Mt. Matarem), Itbayat, Sabtang, Lanyu, Ibohos, Dequey, Panuitan, Calayan and Dalupiri. No active volcanism has been reported in this chain. Whole rock K-Ar age determination done on several fresh samples proved that the volcanic activity in WVC ceased at 4 - 2 Ma whereas the activity in EVC is almost exclusively Pleistocene. The WVC was initially the active volcanic front of the arc. Volcanic activity stopped for an interval of 4 - 2 Ma then resumed further east forming the EVC.
+
+Volcanic rocks from the Babuyan Islands Group that yield ages of around 1 Ma or less consist mostly of basaltic andesites with minor basalts and andesites (McDermott and others, 1993).

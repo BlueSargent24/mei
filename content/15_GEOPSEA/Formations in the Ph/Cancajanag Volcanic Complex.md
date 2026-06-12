@@ -1,0 +1,3 @@
+  
+
+The Cancajanag Volcanic Complex is dominated by the 1,350 m high Mt. Cancajanag, a potentially active volcano located around 20 km east of Ormoc City, Leyte. To the south, 10 km away, is Mt. Gumdalitan, another potentially active volcano. Other inactive volcanoes comprising this volcanic complex in the central highlands of Leyte are Abunug, Aguiting, Alto Peak, Danao, Janagdan, Proto-Janagdan, Laao, Lobi, Maagonoc and Macape (Phivolcs, 1995). The Tongonan [[Geothermal Energy|geothermal]] field north of Cancajanag is situated within this volcanic complex. Andesites from Tongonan gave radiometric K-Ar ages of 1.37 Ma – 0.85 Ma (Sajona and others, 1997).

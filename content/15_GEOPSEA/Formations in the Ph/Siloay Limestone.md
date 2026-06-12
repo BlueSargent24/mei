@@ -1,0 +1,3 @@
+﻿  
+
+The Siloay Limestone was named by Francisco and Comsti (1950) for the limestone beds at the headwaters of Siloay River, South Cotabato. As described by Francisco and Comsti (1950), the basal portion of the formation is a conglomerate consisting of basaltic clasts in a calcareous matrix containing fossils. The limestone is typically coralline and honey-combed with cavities. In places, the limestone is well-bedded and arenaceous. Francisco and Comsti (1952) estimate the thickness of the formation at around 760 m. The age is given as Middle Miocene to Late Miocene. The Siloay Limestone was later renamed by Santos and Baptista (1963) as Tampanan Limestone. (_see [Tampanan Limestone](Tampanan%20Limestone.md)e_)

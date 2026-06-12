@@ -1,0 +1,3 @@
+﻿  
+
+The Macamote Silt is a member of the San Pascual Formation in Burias Island. It is typically exposed at the coastal lowland adjacent to Macamote Bay. The Macamote consists of massive calcareous siltstone which has been oxidized to bright yellow, red or orange. In places, it is blue or gray. Limestone occurring as interbedded strata, lenses and nodules and abundant coral heads represent the calcareous portion of the lower member. The thickness of the Macamote is estimated to be 30-60 m_. (see [San Pascual Formation](San%20Pascual%20Formation.md)_)

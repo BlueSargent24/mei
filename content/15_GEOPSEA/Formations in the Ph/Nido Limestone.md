@@ -1,0 +1,3 @@
+﻿  
+
+The Nido Limestone is the subsurface equivalent of the Late Oligocene to Early Miocene St. Paul Limestone. The Nido, as described by Sali and others (1981) rests unconformably on Late Eocene unit and has a thickness of 885 m as determined from Nido-1 well (BED, 1986c). The clastic sequences overlying the Nido – Pag-asa Formation and Matinloc Formation - as revealed through offshore subsurface wells, have no equivalent in onshore northern Palawan. (_see [St. Paul Limestone](St%20Paul%20Limestone.md)_).

@@ -1,0 +1,9 @@
+  
+
+Batan Island is part of the Eastern Volcanic Chain of the Babuyan Island Group. The oldest rocks are Late Miocene (9 - 7 Ma) andesitic flows that are exposed at the central isthmus of the island. These flows are hornblende- and orthopyroxene-bearing andesites and are usually weathered. They outcrop sporadically beneath the reefal limestones and the young ash deposits originating from Mt. Iraya, located at the northern part of the island.
+
+The Pliocene Matarem composite volcano, ranging in age from 5.8 to 1.7 Ma, defines the southern part of Batan. The central part of this volcano is made up of a number of andesitic necks and plugs, andesitic flows, and younger basaltic flows with minor associated pyroclastics, while its periphery is predominantly composed of reworked layer deposits (lahar deposits and tuffaceous beds) with some interbedded ash and pumice layers. Mt. Matarem lavas are highly porphyritic and range from basalts to hornblende-orthopyroxene acid andesites.
+
+The Quaternary Mt. Iraya lavas show a wide compositional range from basalts to andesites. Basalts contain rounded or broken xenocrysts possibly originating from the mechanical disintegration of peridotitic xenoliths. Ultramafic xenoliths (deformed harzburgites, dunites, and lherzolites) within hornblende-bearing andesites are commonly mantled by centimetric hornblende rims. Mantellic peridotites and pyroxenites occur as rounded inclusions, about 5 - 20 cm wide, within Mt. Iraya basaltic and andesitic flows and _nuee ardente_ deposits. Batan lavas older than 2 Ma are calc-alkaline; while the youngest belong to high-K calc-alkaline series.
+
+A pyroclastic deposit that overlies the reefal limestone and some _nuee ardente_ deposits at the western foot of Mt. Iraya and in Basco has been dated 1,480 yr B.P. (Richard and others, 1986). This pyroclastic unit includes a sequence of ash fall and pumice fall deposits about 30 m thick with minor intercalated ash flow layers.

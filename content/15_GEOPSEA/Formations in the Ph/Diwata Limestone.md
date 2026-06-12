@@ -1,0 +1,3 @@
+  
+
+The Diwata Limestone was named by Teves and others (1951) for the Pliocene limestone at Diwata Point, on the western coast of Agusan del Norte. The limestone also underlies other portions of Agusan del Norte such as Carmen, Bahbah hills in the vicinity of Irene, and Salimbugaon. The maximum thickness as estimated from exposures at Bahbah Hills is 50 m, while at the type locality the limestone is only about 20 m thick.

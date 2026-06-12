@@ -1,0 +1,3 @@
+﻿  
+
+The North Bay Member is part of the Balabac Formation in southern Palawan. It consists dominantly of limestone with interbeds of thin sandstone and shale. The limestone is brown to gray, massive, fine to coarse grained and fossiliferous. The shale and sandstone are gray and fine grained. The presence of _Lepidocyclina (Eulepidina) monstrosa_ Yabe in the limestone delimits the age of these horizons to Late Oligocene. (_see [Balabac Formation](Balabac%20Formation.md)_)

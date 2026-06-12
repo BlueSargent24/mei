@@ -1,0 +1,3 @@
+﻿  
+
+The Masipi green Tuff of MMAJ-JICA (1989) represents a sequence of parallel-bedded greenish tuff, tuffaceous sandstone and some pyroclastic rocks at Masipi River, Cabagan, Isabela. Nannofossils contained in tuffaceous sandstone indicate a Middle to Late Oligocene age (MMAJ-JICA, 1987). It may be correlated with the [Dibuluan Formation](Dibuluan%20Formation.md) on the western flanks of the Sierra Madre Range and the Mamparang Formation of MMAJ-JICA (1977) in the eastern fringe of the Range.

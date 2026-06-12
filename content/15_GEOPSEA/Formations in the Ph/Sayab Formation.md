@@ -1,0 +1,3 @@
+﻿  
+
+The Sayab Formation of Cabrera (1985) in Palawan is equivalent to the Alfonso XIII Formation. The Sayab consists of alternations of Late Miocene sandstone and shale beds exposed in southern Rio Tuba. The sandstone is light gray to reddish brown, fairly cemented and fine to medium grained. The shale is silty, reddish brown to mottled and occasionally laminated. (_see [Alfonso XIII Formation](Alfonso%20Xiii%20Formation.md)_)

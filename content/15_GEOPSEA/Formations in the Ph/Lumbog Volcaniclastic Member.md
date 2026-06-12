@@ -1,0 +1,3 @@
+﻿  
+
+Faustino and others (2003) subdivided the Carmen Formation in Bohol into three members, namely, Anda Limestone Member, Pansol Clastic Member and Lumbog Volcaniclastic Member. The Lumbog consists of conglomerate with pebble- to boulder-sized basalt and andesite clasts set in epiclastic andesite matrix. Occasional clasts of harzburgite, dacite, gabbro, carbonate and clastic rocks were observed in some exposures. The Lumbog typically occurs as valley fills in the Pansol Clastic member, but intertonguing relationship with the Pansol was also observed. The thickness of the Pansol and Lumbog, as estimated by Faustino and others (2003) is 1000 m and 180 m, respectively. (_see [Carmen Formation](Carmen%20Formation.md)_)

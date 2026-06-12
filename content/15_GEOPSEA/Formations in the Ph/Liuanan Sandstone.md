@@ -1,0 +1,3 @@
+﻿  
+
+The Liuanan Sandstone is a possible equivalent of the lower clastic member of the [Wawa Formation](Wawa%20Formation.md) in Prosperidad, Agusan del Sur. The San Jose Oil Company (in BM Petroleum Division, 1966), described this unit as a Pleistocene fluviatile sequence of loose and crossbedded sands with gravel lenses outcropping along Liuanan River on the western flank of the Agusan Basin in Mindanao. The thickness, as measured by San Jose Oil Company, is around 300 m.

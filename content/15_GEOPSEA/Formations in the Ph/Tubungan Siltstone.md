@@ -1,0 +1,3 @@
+﻿  
+
+The Tubungan Siltstone is a member of the Tarao Formation. It is best exposed along Har-ao River in Tubungan, Iloilo. It is made up of alternating thin to medium bedded siltstones, claystones and sandstones. Individual beds vary between 0.2 to 6 cm and average 2 cm, although sandstone interbeds may range from 10 to 30 cm thick. In places, the Tubungan is slightly carbonaceous. Tuff intercalations were noted along Sibalom and Tarao rivers (JICA, 1982, cited in BED-WB, 1986b) Maximum measured thickness is 2,214 m along Tigum River, but thins out in the north to 548 m along Ulian River. The thickness along Har-ao River, the type locality, is 1,206 m (Santos, 1968). (_see [Tarao Formation](Tarao%20Formation.md)_)

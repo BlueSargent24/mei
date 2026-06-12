@@ -1,0 +1,3 @@
+﻿  
+
+The Labayug Limestone (Francisco, 1974) is probably correlative with the [Mirador Limestone](Mirador%20Limestone.md) in Baguio. Its type locality is at the Northern Cement quarry in barrio Labayug, Sison, Pangasinan. The nature of the contact with the underlying Klondyke Formation is not clear, since it is hidden, while its contact with the overlying Amlang Formation at Sapid Creek is gradational. It has a thickness of 290 m at the type locality but thins out towards the north. It is dated Late Miocene.

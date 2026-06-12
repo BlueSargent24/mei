@@ -1,0 +1,3 @@
+  
+
+The Halfway Creek Formation was named by UNDP (1987) for the sequence of volcaniclastic breccias, conglomerates and wackes exposed between Camp 3 and Camp 4 along Kennon Road, which runs parallel to Bued River. Halfway Creek is the eastern tributary of Bued River near Camp 3. The Halfway Creek Formation is considered part of the Zigzag Formation which rests below the Kennon Limestone at Camp 3. (_see [Zigzag Formation](Zigzag%20Formation.md)_)

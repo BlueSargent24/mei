@@ -1,0 +1,3 @@
+  
+
+The Batangas Volcanics was named by Corby and others (1951) for the pyroclastic breccia flows, agglomerates and tuffs that cover a large portion of Batangas Province. The exposures at Looc, Nasugbu and vicinity were later named Batangas Extrusives and Pyroclastics by Malicdem and others (1965). Later it was renamed Looc Volcanic Complex and Nasugbu Volcanic Complex by MGB (2004) and MGB (2005), respectively. (_see [Nasugbu Volcanic Complex](Nasugbu%20Volcanic%20Complex.md)_)

@@ -1,0 +1,3 @@
+﻿  
+
+The Salog Andesite Formation (UNDP, 1987) described as andesite and andesite pyroclastics exposed in southeast Jetafe, Bohol, is probably equivalent to the [Jetafe Andesite](Jetafe%20Andesite.md). In Salog, two types of andesite were identified - medium to coarse grained hornblende phyric andesite and andesite porphyry. The andesite unconformably overlies the Rizal Basaltic Wackes of the Ubay Formation. It is intruded by the Talibon Diorite.

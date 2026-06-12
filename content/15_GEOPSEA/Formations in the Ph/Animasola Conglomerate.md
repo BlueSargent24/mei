@@ -1,0 +1,3 @@
+  
+
+The Animasola Conglomerate was named by Corby and others (1951) for the sequence of siltstone, sandstone and conglomerate at Animasola Island north of Ticao Island. The conglomerate is characterized by clasts of angular basaltic pebbles and boulders that reach up to 90 cm in diameter embedded in a tuffaceous sandy matrix. The exposed thickness of the formation is about 90 m and its age is probably Early Miocene.

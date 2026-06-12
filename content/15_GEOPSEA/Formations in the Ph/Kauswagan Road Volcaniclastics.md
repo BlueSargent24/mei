@@ -1,0 +1,3 @@
+﻿  
+
+The Kauswagan Road Volcaniclastics is one of the members of the Ubay Formation in Bohol as subdivided by UNDP (1987). The other members of the formation are San Vicente Basalt, Rizal Basaltic Wackes, Lubang Turbidites and Tulang Wacke. The Kauswagan consists primarily of conglomerates and wackes with zeolite-bearing pillow basalts intercalated with mudstone in the upper horizon. (_see [Ubay Formation](Ubay%20Formation.md)_)

@@ -1,0 +1,3 @@
+﻿  
+
+The Piatt Mudstone is a member of the Caguray Formation in Mindoro. The Piatt Mudstone, which extends for about 30 km from Lumintao River to Caguray River, consists of non-calcareous to slightly calcareous mudstones and siltstone. This unit is considered coeval with the **_[Kayakian Shale](Kayakian%20Shale.md)_**, composed of dark gray to black shales with subordinate siltstone and mudstone interbeds. (_see [Caguray Formation](Caguray%20Formation.md)_)

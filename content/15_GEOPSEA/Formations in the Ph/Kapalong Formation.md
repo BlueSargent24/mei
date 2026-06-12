@@ -1,0 +1,3 @@
+﻿  
+
+The Kapalong Formation in Bukidnon was designated by MMAJ-JICA (1973) and defined by BMG (1981), as a molasse-type deposit consisting of conglomerate, sandstone, and siltstone with thin limestone beds at its base. It is considered to be equivalent to the Lumbayao Formation. BMG (1981) assigned a Pliocene to Pleistocene age for the Kapalong, and Pleistocene for the Lumbayao. However, Santiago (1983) gave the Lumbayao a Pliocene age. MGB (2004) assigns a Pliocene to Pleistocene age to the Lumbayao. The aggregate thickness of the Lumbayao, including the Kapalong, is about 1,000 m. (_see [Lumbayao Formation](Lumbayao%20Formation.md)_)

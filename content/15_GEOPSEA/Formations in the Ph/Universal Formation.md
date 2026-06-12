@@ -1,0 +1,3 @@
+﻿  
+
+This formation was previously named by Meek (1941) for the sedimentary rocks exposed at the defunct Universal Exploration and Mining Company site in Tumbaga within the Paracale-Jose Panganiban Mining District. It was renamed Tumbaga Formation by MGB (2004) to indicate the geographic locality of the formation. It also crops out in the northern part of Calambayungan Island and Larap Peninsula. _(see [Tumbaga Formation](Tumbaga%20Formation.md)_)

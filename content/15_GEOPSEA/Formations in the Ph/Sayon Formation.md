@@ -1,0 +1,3 @@
+﻿  
+
+The Sayon Formation of Victoriano and Gutierrez (1980) in the Bislig-Lianga area in Surigao del Sur probably corresponds in part to the [Adgaon Formation](Adgaon%20Formation.md). It consists of greenish gray sandstone and dark gray lignitic siltstones which grade upward into light gray to green intertidal calcareous silty sandstones with abundant bivalves, gastropods, corals and other calcareous detrita (BED, 1986b). It is Pliocene in age and has a maximum estimated thickness of 100 m.

@@ -1,0 +1,3 @@
+﻿  
+
+The Odeong Formation was described by Melendres and Barnes (1957) as consisting predominantly of volcanic conglomerate with subordinate mudstone and little interbedded limestone. It was defined by Melendres and Barnes (1957) as a formation when they raised the Malabago to group rank. However, MGB (2004) considers the Odeong as a member of the Malabago Formation. (_see [Malabago Formation](Malabago%20Formation.md)_)

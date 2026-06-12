@@ -1,0 +1,3 @@
+ 
+
+The Batangan Formation of BED (1986c) may be considered equivalent to the Caguray Formation in Mindoro. Its type locality is in the Batangan Creek area, a tributary of Busuanga River. It is also reported to be well exposed along the tributaries of the upper Caguray River. The thickness of the formation along Batangan Creek is estimated to reach 4,260 m. (_see [Caguray Formation](Caguray%20Formation.md)_)

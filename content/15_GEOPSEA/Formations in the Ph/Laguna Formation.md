@@ -1,0 +1,3 @@
+﻿  
+
+The Laguna Formation was named by Schoell and others (1985) for the Late Pliocene to Early Pleistocene clastic and pyroclastic rocks around Laguna de Bai. Schoell and others (1985) defined several facies of the formation, namely: a) air fall tephra; b) pyroclastic flow deposits; c) lahars; d) stream deposits; e) lake deposits; and f) basalt flows. The Laguna Formation apparently corresponds to the Guadalupe Formation. (_see [Guadalupe Formation](Guadalupe%20Formation.md)_)

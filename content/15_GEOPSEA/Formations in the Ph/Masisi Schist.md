@@ -1,0 +1,3 @@
+﻿  
+
+The Masisi Scist was named by Magpantay (1955) for the metamorphic rocks exposed at Sitio Masisi in Polillo Island. Fernandez and others (1967) differentiated this rock unit into the Buhang Point Schist and Quidadanom Schist. The Buhang Point occurs as thrusted bodies between the Anawan Formation and ultramafic rocks, whereas the Quidadanom Schist at Bgy. Quidadanom is overlain by the Anawan Formation. The Quidadanom includes phyllites, quartzites and marble.

@@ -1,0 +1,3 @@
+﻿  
+
+The **Reed Bank Limestone** was designated by Keston (1981) for the Late Oligocene to Early Miocene limestone encountered in subsurface drilling at Reed Bank which he correlated with the Nido Limestone. The whole Neogene sequence including the Reed Bank Limestone has a thickness ranging from 1,500 m to 3,000 m, based on five wells drilled over the Reed Bank area. The Reed Bank may also be correlated with the St. Paul Limestone. (_see [St. Paul Limestone](St%20Paul%20Limestone.md)_)

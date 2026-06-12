@@ -1,0 +1,3 @@
+﻿  
+
+In the central portion of Pujada Peninsula, a narrow metamorphic belt, 50 m to 200 m wide, designated as **Tagugpo Schist**, is confined between the Surop Peridotite and Kalunasan Basalt. The Schist is considered part of the [Pujada Ophiolite](Pujada%20Ophiolite.md) and equivalent to the Magpapangi Greenschist. Its contact with the Surop Peridotite is defined by a zone of amphibolite. These metamorphic rocks, include epidote-chlorite-antophyllite schist, antigorite-hematite-actinolite schist, low grade calc schist, and low grade epidote-carbonate-chlorite schist. They grade into amphibolite schist to the west and metabasalt to the east. (_see [Magpapangi Greenschist](Magpapangi%20Greenschist.md)_)

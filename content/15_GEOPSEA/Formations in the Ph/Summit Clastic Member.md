@@ -1,0 +1,3 @@
+﻿  
+
+The Summit Clastic Member is part of the Dingle Formation in eastern Panay. It was named after Barrio Summit, Passi, Iloilo. It extends north to Barrio Tumalulud, Dumalag, Capiz and thins out south of Passi, Iloilo. The Summit Clastic Member consists of massive, gray, medium to coarse grained sandstone; fossiliferous shale; and thin lenses of limestone. It is 483 m thick along Lamunan River. (_see [Dingle Formation](Dingle%20Formation.md)_)

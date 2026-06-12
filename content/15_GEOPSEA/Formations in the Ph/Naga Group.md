@@ -1,0 +1,3 @@
+﻿  
+
+Santos-Yñigo (1956) introduced the name Naga Group for the intertonguing formations exposed along the Naga-Uling Road in central Cebu, consisting of the [Cebu Formation](Cebu%20Formation.md) and [Malubog Formation](Malubog%20Formation.md). The [Guindaruhan Conglomerate](Guindaruhan%20Conglomerate.md) served as the base of the unit which signalled the initial transgression and start of basin formation in Cebu. Paleontological and sedimentological studies confirmed that the deposition of these formations is interrelated and hence should be ranked under one group.

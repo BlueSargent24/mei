@@ -1,0 +1,3 @@
+﻿  
+
+Quartz diorites, including tonalite and granodiorite, having similar ages as the diorites at Dupax, which are exposed in the axial part of northern Sierra Madre were designated by Billedo (1994) as the Northern Sierra Madre Batholith. MGB (2004) regards the diorites of Caraballo (otherwise known as Dupax Batholith) and the quartz diorites of the Northern Sierra Madre Batholith collectively as the Dupax Diorite Complex. These diorites intrude the Caraballo Formation and other older formations. New radiometric datings (40K/40Ar and 40Ar/39Ar) give values of 30 Ma to 21.9 Ma, equivalent to late Early Oligocene to early Early Miocene, conforming to the 33 Ma to 22 Ma age bracket given by MMAJ-JICA (1977). (_see [Dupax Diorite Complex](Dupax%20Diorite%20Complex.md)_)

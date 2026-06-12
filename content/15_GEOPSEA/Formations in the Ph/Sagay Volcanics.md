@@ -1,0 +1,3 @@
+﻿  
+
+The Sagay Volcanics of Yap (1972), named for the Pleistocene basaltic and andesitic volcanic rocks at Sagay, Negros Island, is probably equivalent to the eruptive products of the Canlaon Volcanic Complex. The same may be said for the pyroclastic rocks in Kabiluhan River and Kasoy Creek reported by Domingo (1977) and those on the southeastern part of Cabanbanan area, Cauayan, Negros Occidental and in the upper reaches of Kabiluhan River and Kasoy Creek. (_see [Canlaon Volcanic Complex](Canlaon%20Volcanic%20Complex.md)_)

@@ -1,0 +1,3 @@
+﻿  
+
+The Late Miocene – Pliocene Mapulo Limestone was named by Avila (1980) for the limestone at Bgy. Mapulo, Taysan, Batangas. The Mapulo overlies the Talahib Andesite at the upper reaches of the west major tributary of Talahib River and upstream of Lalayan River. The Limestone is massive, white to buff, soft and porous and exhibits coral fingers. It is the local equivalent of the Calatagan Formation and synonymous with the Dingle Limestone of Wolfe and others (1980). (_see [Calatagan Formation](Calatagan%20Formation.md)_)

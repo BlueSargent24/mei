@@ -1,0 +1,3 @@
+  
+
+Balic Mudstone is the lowermost member of the Cabatuan Formation. Since Corby and others (1951) did not designate a type locality for the lowermost Balic Mudstone Member, Santos (1968) selected Barrio Turing, Cabatuan, Iloilo along the northern bank of Tigum River as its type locality. The member is limited to the south-central part of the plain and is composed essentially of thick bedded, dark gray, soft and highly fossiliferous mudstone. At the type locality, the mudstone is interbedded with fine-grained sandstone. In both the mudstone and sandstone, cobbles of volcanic rocks are scattered. Well-preserved molluscan fossils are present, especially along the bedding planes. (_see [Cabatuan Formation](Cabatuan%20Formation.md)_)

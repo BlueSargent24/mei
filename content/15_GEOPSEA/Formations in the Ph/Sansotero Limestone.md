@@ -1,0 +1,3 @@
+﻿  
+
+The **_Sansotero Limestone_** was named by Roque and others (1972) for the irregularly shaped exposures and disconnected patches of limestone in Sansotero, Bigbiga in Mayantoc, Tarlac. This was considered a separate younger formation in BMG (1981) but it is included as a member of the Moriones Formation in MGB (2004). The limestone is massive, dirty white to greenish gray, porous with volcanic and sedimentary clasts. Corals, algae, molluscan shells, and benthonic formaminifera of the genera _Rotalia, Marginopora_ and _Elphidium_ are found in the limestone. The limestone at the type locality is 8 m thick. (_see [Moriones Formation](Moriones%20Formation.md)_)

@@ -1,0 +1,3 @@
+﻿  
+
+The Sta. Barbara is the uppermost member of the Pleistocene Cabatuan Formation in Iloilo. It consists principally of massive or poorly bedded coarse grained and silty sandstone and siltstone with minor claystone. The type locality is Sta. Barbara, Iloilo. It is also exposed south of Lucena, north of Sta. Barbara and west of Jalicoun, Cabatuan. The Sta. Barbara contains abundant well-preserved large mollusks. Carbonized wood fragments have also been noted. (_see [Cabatuan Formation](Cabatuan%20Formation.md)_)

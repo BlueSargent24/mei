@@ -1,0 +1,3 @@
+﻿  
+
+The Matan-ao Clastics of Milanes (1981) may correspond to the clastic rocks of the Gumasa Formation. The Matan-ao underlies the relatively flat lands in Matan-ao and Magsaysay and the narrow north-south trending Malungon Valley in Davao del Sur. Along the Malungon Valley, the Matan-ao Clastics consists of poorly consolidated and poorly sorted, flat-lying sandstones, shales and conglomerates with reworked tuffs and occasional terrace gravel (Milanes, 1981). (_see [Gumasa Formation](Gumasa%20Formation.md)_)

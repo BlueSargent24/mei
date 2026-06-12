@@ -1,0 +1,3 @@
+  
+
+The Hill 169 andesite was named by UNDP (1987) for the small bodies of andesitic intrusive bodies in Surigao del Norte. It intrudes the Pliocene Naga Andesite and is characterized by prominent hornblende laths and smaller plagioclase phenocrysts set in an aphanitic groundmass. It is considered part of the igneous activity associated with the intrusion of the Ipil Andesite. (_see [Ipil Andesite](Ipil%20Andesite.md)_)

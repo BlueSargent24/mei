@@ -1,0 +1,3 @@
+  
+
+The Gulang-Gulang Slates was named by De Villa (1941) for the iron gray slates at sitio Gulang-Gulang on the south side of Malampaya Sound in northern Palawan. It is equivalent to the Liminangcong Formation of Hashimoto and Sato (1973). The Liminangcong consists of hematite-bearing chert intercalated with black slate and reddish bedded tuff. (_see [Liminangcong Formation](Liminangcong%20Formation.md)_)

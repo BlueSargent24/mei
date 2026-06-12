@@ -1,0 +1,3 @@
+﻿  
+
+The Lubang Turbidites is one of five members of the Ubay Formation in Bohol that was defined by UNDP (1987). It consists of wackes, siltstones and mudstones which usually exhibit parallel bedding and parallel and cross ripple lamination. Basal conglomerate is locally encountered. Thin beds of pillow basalt were observed intercalated with clastic rocks at Tugnao River. The Lubang is probably partly equivalent to the [Calape Limestone](Calape%20Limestone.md). (_see [Ubay Formation](Ubay%20Formation.md)_)

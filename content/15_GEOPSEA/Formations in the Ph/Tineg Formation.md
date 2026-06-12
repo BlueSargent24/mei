@@ -1,0 +1,3 @@
+﻿  
+
+A large part of the Sagada Formation apparently corresponds to the Tineg Formation of MMAJ JICA (1977, 1980) and BMG (1981). This was described as a sequence of pyroclastic rocks with intercalated dacitic flows, sandstones, mudstones and limestone mapped in Abra area (where it was originally recognized), Kalinga Apayao and Bontoc area. It was estimated to be only 300 400 m thick in Abra area, but presumably attains a thickness of 1,500 m in Bontoc area. The 200 m thick limestone body in Sagada which MMAJ JICA (1980) included as part of its Tineg Formation is probably the same as the limestone of the Sagada Formation described by Maleterre (1989). (_see also [Sagada Formation](Sagada%20Formation.md)_)

@@ -1,0 +1,3 @@
+  
+
+The Dalugan Schist was named by Billedo (1994) for the outcrops of greenschists along Dalugan Bay at the eastern coast of San Ildefonso Peninsula, Aurora province. These are elongated or stretched pillow basalts, schistose volcanic breccia and andesitic flow with marble lenses and associated phyllites and greenschists. South of Baler, greenschists and highly silicified lithic tuffs were also encountered. These could represent weakly metamorphosed equivalents of the Dibuakag Volcanic Complex. The Dalugan may also be correlated with the Quidadanom Schist of Polillo Island. (_see [Dibuakag Volcanic Complex](Dibuakag%20Volcanic%20Complex.md) and [Quidadanom Schist](Quidadanom%20Schist.md)_)

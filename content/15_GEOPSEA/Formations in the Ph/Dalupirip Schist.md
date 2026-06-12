@@ -1,0 +1,3 @@
+  
+
+The Dalupirip Schist was named by Balce and others (1980) for the low grade metamorphic effects developed in [Pugo Formation](Pugo%20Formation.md). It is localized along narrow shear zones (up to 1.5 km wide) near contacts with quartz diorite bodies as in Ambalanga River and portions of Agno River, especially near barrio Dalupirip in Itogon, Benguet from where it derives its name. The schist consists of actinolite, andesine, epidote, chlorite, muscovite, quartz, sphene and pyrite. Crispin and Fuchimoto (1980) report a K Ar age of 82.6 Ma, equivalent to Late Cretaceous, for a sample of the schist.

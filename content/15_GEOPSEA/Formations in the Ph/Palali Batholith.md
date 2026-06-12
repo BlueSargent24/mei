@@ -1,0 +1,3 @@
+﻿  
+
+The Palali Batholith was named by MMAJ-JICA (1977) for the syenites and monzonites that intrude the Palali Formation in the Mamparang Mountains. The alkali rocks of the Palali Formation is considered by MGB (2004) as part of the Cordon Syenite Complex. Radiometric K-Ar dating of samples from the Palali Batholith indicate an age bracket of 25-22 Ma, equivalent to late Late Oligocene to early Early Miocene. (_see [Cordon Syenite Complex](Cordon%20Syenite%20Complex.md)_)
