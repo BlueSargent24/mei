@@ -1,7 +1,6 @@
 ---
 title: Welcome to Quartz
 ---
-[[Minerals Database.base]]
-[[Crystallography]]
+[[0_Geologic Setting of the Philippines.md|GEOPSEA Homepage]]
 
-[[Crystallography.canvas]]
+[[Earthscope Seismology.md]]
