@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Sandstone, shale, volcaniclastic rocks
@@ -10,7 +8,7 @@ Distribution: Asuncion, Nabunturan, Mt. Caunabayan, Davao del Norte
 
 Age: Early Miocene (NN3)
 
-Thickness: >150-200 m
+Thickness: 150-200 m
 
 Named_by: Casasola (1956)
 
