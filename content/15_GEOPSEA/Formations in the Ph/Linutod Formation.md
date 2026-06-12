@@ -1,21 +1,11 @@
-﻿
-
 ---
-
 Lithology: Conglomerate, sandstone and shale with coal interbeds
-
 Stratigraphic_relations: Conformably overlies and intertongues with the Butong Limestone
-
 Distribution: From Calagasan, Argao to Mag-alambac, Dalaguete, Cebu Island
-
 Age: Early Miocene
-
 Thickness: 325 m to 1,300 m
-
 Named_by: Barnes and others (1958)
-
-Correlation: [Basac Formation](Basac%20Formation.md) in Siquijor Island
-
+Correlation:
 ---
 
  

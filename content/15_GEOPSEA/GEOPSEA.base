@@ -40,6 +40,8 @@ views:
       - Age
       - file.backlinks
     sort:
+      - property: Distribution
+        direction: ASC
       - property: Lithology
         direction: ASC
       - property: file.backlinks

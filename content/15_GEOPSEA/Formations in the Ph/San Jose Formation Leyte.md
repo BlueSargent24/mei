@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Conglomerate, sandstone, shale and fine tuffaceous sequences with intercalations of volcanic flows
