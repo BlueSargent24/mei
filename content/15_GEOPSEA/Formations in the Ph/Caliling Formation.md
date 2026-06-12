@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Limestones, sandstones, siltstones, shale

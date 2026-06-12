@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Andesitic flows and agglomerate

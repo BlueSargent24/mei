@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Hornblende diorite, hornblende quartz diorite

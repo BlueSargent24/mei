@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Dominantly shale with sandy tuff and calcareous volcanic rubble beds

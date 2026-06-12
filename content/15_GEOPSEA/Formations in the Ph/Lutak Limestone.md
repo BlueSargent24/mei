@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Articulated nummulitid-bearing limestone

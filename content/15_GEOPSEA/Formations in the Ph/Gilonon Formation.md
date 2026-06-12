@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Conglomerate, sandstone, siltstone and green tuff

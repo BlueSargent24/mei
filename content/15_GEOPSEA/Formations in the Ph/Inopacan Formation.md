@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Dominantly conglomerate with interbeds of mudstone and calcareous tuff

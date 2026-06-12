@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Basalt, andesite, dacite, trachyandesite, rhyolite, pyroclastic rocks, lahar

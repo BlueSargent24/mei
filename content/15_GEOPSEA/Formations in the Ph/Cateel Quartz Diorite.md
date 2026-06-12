@@ -1,17 +1,9 @@
-
-
 ---
-
 Lithology: Quartz diorite
-
 Stratigraphic_relations: Intrudes Barcelona Formation
-
 Distribution: Upper reaches of Caraga and Cateel rivers, Masara mine area; Maragusan area, North Davao
-
 Age: Early - Middle Miocene
-
 Named_by: MGB (2004)
-
 ---
 
  

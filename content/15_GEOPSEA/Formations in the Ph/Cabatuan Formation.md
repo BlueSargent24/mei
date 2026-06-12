@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Mudstone, sandstone, siltstone
@@ -8,7 +6,7 @@ Distribution: Cabatuan and Sta. Barbara, Iloilo
 
 Age: Pleistocene
 
-Thickness: > 390 m
+Thickness: 390 m
 
 Named_by: Corby and others (1951)
 

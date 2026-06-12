@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Sandstone, conglomerate and mudstone with limestone lenses

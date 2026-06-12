@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Volcanic flows, breccias, pyroclastics, sandstone, conglomerate, siltstone, mudstone

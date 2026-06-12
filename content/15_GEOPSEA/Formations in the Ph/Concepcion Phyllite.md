@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Phyllite, semischist, slate, quartzite

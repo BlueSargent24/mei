@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Gravel, sandstone, shale

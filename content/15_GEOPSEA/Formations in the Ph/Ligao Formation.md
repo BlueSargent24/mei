@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Limestone, pyroclastic rocks, marly shale

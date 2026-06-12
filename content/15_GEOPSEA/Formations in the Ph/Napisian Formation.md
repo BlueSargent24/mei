@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Shale, sandstone, coal beds, conglomerate, limestone.
@@ -14,7 +12,6 @@ Thickness: 450 m
 
 Named_by: Weller and Vergara (1955)
 
-Synonymy: [Mawo Volcanics](Mawo%20Volcanics.md) (Garcia and Mercado, 1981).
 
 ---
 

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Serpentinized peridotite, pyroxenite

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Andesite, spilite, basalt, fragmental volcanic rocks, graywacke, siltstone

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Basalt, andesite, breccia, pyroclastic rocks, lahar

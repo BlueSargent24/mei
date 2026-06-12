@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Diorite, monzonite, quartz diorite, granodiorite; andesite dacite, rhyodacite; pyroclastic rocks; chert

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Basalt, argillite, limestone, chert, clastic rocks

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: amphibolite schist, garnet-amphibolite schist, biotite-quartz schist, quartzo-feldspathic schist

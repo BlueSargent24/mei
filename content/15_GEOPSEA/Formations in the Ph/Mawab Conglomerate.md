@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Conglomerate
@@ -12,7 +10,7 @@ Distribution: Mawab and Tagum, Davao del Norte
 
 Age: probably Pleistocene
 
-Named_by: **_**: Quebral (1994)
+Named_by: Quebral (1994)
 
 ---
 

@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Mudstone, claystone, tuffaceous sandstone

@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Andesite, dacite conglomerate, minor sandstone, chert, marble
@@ -10,7 +8,7 @@ Distribution: Cablacan and Kamanga rivers; Kiamba, South Cotabato
 
 Age: Early Miocene
 
-Thickness: > 800 m
+Thickness: 800 m
 
 Named_by: Santos and Baptista (1963)
 

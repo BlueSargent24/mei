@@ -1,21 +1,12 @@
 ---
-
 Lithology: Schists, slate, quartzite and marble
-
 Stratigraphic_relations: Unconformably overlain by the Tablas Volcanic Complex in northern Tablas Island; in fault contact with the Sibuyan Ultramafic Complex; intruded by gabbro at San Agustin and Culaton Hill, Tablas Island; overlain by basic flows in Tablas Island from Alcantara to Canguyo, Sta. Fe
-
 Distribution: Lunas River, Romblon (type locality); Romblon, Tablas, Sibuyan, Cobrador and Alad islands
-
 Age: Paleozoic
-
 Previous_name: Romblon Marble (Adams, 1910)
-
 Renamed_by: Vallesteros and Argaño (1965)
-
 Stratigraphic_correlation: Mindoro Metamorphics in Mindoro Island
-
 Synonymy.: Romblon Marble (Adams, 1910); Romblon Formation (Smith, 1924); Sibuyan Formation (Hashimoto, 1939); Basement Rocks (Corby and others, 1951); Romblon Metamorphics (BMG, 1981)
-
 ---
 
  

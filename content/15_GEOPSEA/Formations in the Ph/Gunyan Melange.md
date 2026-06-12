@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Megablocks of harzburgite, gabbro, basalt, chert, dunite, as well as chlorite schist, sandstones, limestone in serpentinite and clayey matrix

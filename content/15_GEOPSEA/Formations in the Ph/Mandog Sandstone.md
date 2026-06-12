@@ -1,19 +1,10 @@
-﻿
-
 ---
-
-Lithology: **_**: Sandstone, shale, conglomerate
-
+Lithology: sandstone, shale, conglomerate
 Stratigraphic_relationships: Unconformably overlies the Masuhi Formation; unconformably overlain by the Mawab Formation
-
 Distribution: Lasang and Davao Rivers; Mawab and Asuncion, Davao del Norte; type locality is at Mandog, Davao City
-
 Age: Early Pleistocene (NN19) to Late Pleistocene (NN20-21)
-
 Thickness: 200-250 m
-
 Named_by: Casasola (1956)
-
 ---
 
  

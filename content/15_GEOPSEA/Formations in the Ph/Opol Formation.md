@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Sandstone, conglomerate, agglomerate, tuff

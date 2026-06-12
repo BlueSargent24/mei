@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Sandstone, conglomerate, shale, volcanic flows, limestone
@@ -14,8 +12,7 @@ Thickness: 1,000 m
 
 Named_by: Corby and others (1951)
 
-Synonymy: Mawo Volcanics (Garcia and Mercado, 1981),  
-Loquilocon Limestone (Garcia and Mercado, 1981)
+Synonymy: Mawo Volcanics (Garcia and Mercado, 1981) Loquilocon Limestone (Garcia and Mercado, 1981)
 
 ---
 

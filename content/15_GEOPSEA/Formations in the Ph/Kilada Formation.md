@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Sandstone, calcareous siltstone, conglomerate

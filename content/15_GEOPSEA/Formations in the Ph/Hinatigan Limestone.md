@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Limestone, marl, calcareous wacke, siltstone

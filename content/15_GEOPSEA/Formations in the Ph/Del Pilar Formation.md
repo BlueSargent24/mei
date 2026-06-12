@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Conglomerate, volcanic wacke, limestone

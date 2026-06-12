@@ -9,7 +9,7 @@ views:
     name: Stratigraphic Groups
     filters:
       and:
-        - file.folder == "15_GEOPSEA/Stratigraphic Groupings"
+        - file.folder == "content/15_GEOPSEA/Stratigraphic Groupings"
     order:
       - file.name
       - basement_rocks
@@ -32,7 +32,7 @@ views:
     name: Formations
     filters:
       and:
-        - file.folder == "15_GEOPSEA/Formations in the Ph"
+        - file.folder == "content/15_GEOPSEA/Formations in the Ph"
     order:
       - file.name
       - Lithology
@@ -40,6 +40,8 @@ views:
       - Age
       - file.backlinks
     sort:
+      - property: Lithology
+        direction: ASC
       - property: file.backlinks
         direction: DESC
       - property: Lithology 

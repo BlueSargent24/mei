@@ -1,21 +1,11 @@
-﻿
-
 ---
-
 Lithology: Conglomerate, sandstone, mudstone, limestone
-
 Stratigraphic_relations: Unconformably overlies the Kalagutay Formation
-
 Distribution: Mt. Merui, Upper Sita River, Kiulom River, Little Baguio near the boundary of Bukidnon and Davao del Norte
-
 Age: Pliocene – Pleistocene
-
 Thickness: 1,000 m
-
 Named_by: MMAJ-JICA (1973)
-
-Synonymy: [Kapalong Formation](Kapalong%20Formation.md) (MMAJ-JICA, 1973)
-
+Synonymy: "[[content/15_GEOPSEA/Formations in the Ph/Kapalong Formation|Kapalong Formation]]"
 ---
 
  

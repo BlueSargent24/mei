@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Andesite and basaltic flows; agglomerate

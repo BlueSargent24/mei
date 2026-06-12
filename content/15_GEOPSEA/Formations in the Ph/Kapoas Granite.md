@@ -1,18 +1,10 @@
 ---
 Lithology: Granite, quartz monzonite, granodiorite, quartz diorite
-
 Stratigraphic_relations: Intrudes the Liminangcong Formation and Barton Group
-
 Distribution: Mt Kapoas, Imuran Island; Cleopatra's Needle, Stripe Peak; central range west of Iwahig; northwestern Pancol, southwestern Mabini, northwestern Silaltan, Northern Palawan
-
 Age: Middle Miocene
-
 Named_by: De Villa (1941)
 
-Synonymy: [Tiniguiban Granodiorite](Tiniguiban%20Granodiorite.md) (Ringis et al., 1993);  
-[Stripe Peak Granite](Stripe%20Peak%20Granite%20Granodiorite.md) (UNDP, 1985; BMG, 1987);  
-Stripe Peak Granite (MMAJ-JICA, 1990);  
-Kapoas Granitic Rocks (MMAJ-JICA, 1990)
 ---
 
 The term Kapoas Granite was introduced by de Villa (1941) for the granitic intrusive rocks cropping out in Mt. Kapoas located south of the Malampaya Sound in northwestern Palawan. Two varieties have been distinguished: clear normal biotite granite and a variety with dark patches or schlieren. Both dominantly contain pale grey, finely granular, interlocking, and occasionally staniferous quartz. Other granitic intrusions that are associated with the Kapoas Granite include quartz monzonite, granodiorite and quartz diorite.

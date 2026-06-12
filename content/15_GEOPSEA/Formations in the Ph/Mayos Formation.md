@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Calcirudite, calcarenite, calcareous wacke, mudstone, shale, basalt, andesite, tuff, limestone, conglomerate

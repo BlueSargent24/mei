@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Basalt, sandstone, mudstone, shale

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Diabase dike complex

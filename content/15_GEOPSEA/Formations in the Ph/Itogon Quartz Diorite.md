@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Hornblende quartz diorite, tonalite, minor gabbro

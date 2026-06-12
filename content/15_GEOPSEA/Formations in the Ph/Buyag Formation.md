@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Conglomerate, sandstone, mudstone, calcarenite

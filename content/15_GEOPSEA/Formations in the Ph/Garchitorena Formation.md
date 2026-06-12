@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Volcanic wacke, shale, limestone, chert, basalt, tuff, agglomerate

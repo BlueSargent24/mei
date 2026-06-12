@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Coralline, porous, dolomitic limestone

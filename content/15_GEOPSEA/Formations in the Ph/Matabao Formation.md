@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Conglomerate, reefal limestone, biocalcarenite<

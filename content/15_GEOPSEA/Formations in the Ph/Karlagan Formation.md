@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Shale and mudstone with occasional lenses of conglomerate and limestone

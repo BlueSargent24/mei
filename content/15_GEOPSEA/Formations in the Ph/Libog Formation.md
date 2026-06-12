@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Tuff, agglomerate, volcanic flows, graywacke, conglomerate, siltstone

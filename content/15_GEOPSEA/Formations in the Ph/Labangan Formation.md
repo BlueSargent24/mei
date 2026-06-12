@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Terrace sediments, reef limestone
@@ -8,7 +6,7 @@ Stratigraphic_relations: Not reported
 
 Distribution: Labangan, Midsalip; Punta Fletcha, Sibuguey Peninsula, Zamboanga
 
-Thickness: > 150 m
+Thickness: 150 m
 
 Age: Pleistocene
 

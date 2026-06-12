@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Limestone, calcarenites, calcirudites

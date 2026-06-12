@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Sandstone and mudstone with minor limestone and conglomerate

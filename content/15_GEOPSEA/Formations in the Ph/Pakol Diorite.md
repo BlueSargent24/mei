@@ -1,4 +1,3 @@
-
 ---
 
 Lithology: Diorite, quartz diorite, granodiorite

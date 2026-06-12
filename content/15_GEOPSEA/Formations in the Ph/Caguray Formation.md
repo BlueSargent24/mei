@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Mudstone, siltstone, shale, sandstone, conglomerate, limestone.
@@ -14,8 +12,6 @@ Thickness: 1,300 m – 2,048 m
 
 Named_by: Miranda (1980)
 
-Synonymy: Talahib Formation (Ocampo, 1971);  
-Batangan Formation (BED-WB, 1986)
 
 ---
 

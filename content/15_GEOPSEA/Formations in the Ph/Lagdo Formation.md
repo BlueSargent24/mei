@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Andesitic lavas and breccias, tuff, graywacke, mudstone, conglomerate

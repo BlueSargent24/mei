@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Members: Lalat, Gotas, Dumagok

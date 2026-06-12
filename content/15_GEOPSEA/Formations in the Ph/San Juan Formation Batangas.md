@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Basalt, andesite, graywacke, shale, slate, paraschist, marble, hornfels

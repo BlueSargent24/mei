@@ -1,19 +1,10 @@
-﻿
-
 ---
-
-Lithology: _A: ndesite, andesitic flow breccia, tuff
-
+Lithology: Andesite, andesitic flow breccia, tuff
 Stratigraphic_relations: Conformable over the Tumbaga Formation and unconformably overlain by the Bosigon Formation
-
 Distribution: Larap, Camarines Norte; Calambayugan Island and Enchanted Island
-
 Age: Oligocene?
-
 Previous_Name: Larap Volcanics (Meek, 1941)
-
 Renamed_by: MGB (2004)
-
 ---
 
  

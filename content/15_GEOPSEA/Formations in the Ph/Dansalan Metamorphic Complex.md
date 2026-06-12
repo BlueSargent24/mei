@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Quartz-chlorite schist, quartz-sericite schist, amphibolite

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Peridotite, gabbro, dunite, basalt, serpentinite

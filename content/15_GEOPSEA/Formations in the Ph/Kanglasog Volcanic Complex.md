@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Basalt to pyroxene andesite breccia and tuff

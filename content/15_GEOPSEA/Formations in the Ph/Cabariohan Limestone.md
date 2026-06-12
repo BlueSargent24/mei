@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Limestone, basaltic calcarenite

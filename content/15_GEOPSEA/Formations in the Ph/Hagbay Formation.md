@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Reefal limestone, siltstone

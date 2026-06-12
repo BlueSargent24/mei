@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Gabbro
@@ -12,7 +10,6 @@ Age: Late Cretaceous?
 
 Named_by: Florendo (1987)
 
-Synonymy: [Lawagan Metadiorite](Lawagan%20Metadiorite.md) (MMAJ-JICA, 1988)
 
 ---
 

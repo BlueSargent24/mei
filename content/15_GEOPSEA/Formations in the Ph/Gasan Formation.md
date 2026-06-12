@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Siltstone, shale, conglomerate

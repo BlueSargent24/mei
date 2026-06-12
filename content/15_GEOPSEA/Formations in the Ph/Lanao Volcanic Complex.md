@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Basalt, andesite, pyroclastic rocks

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Volcanic flows and breccias; graywacke, chert

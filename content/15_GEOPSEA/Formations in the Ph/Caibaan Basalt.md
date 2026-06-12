@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Pillow basalt
@@ -10,8 +8,7 @@ Age: Cretaceous
 
 Previous_name: Tacloban Volcanics (Pilac, 1965)
 
-Renamed_by: Cabantog and Escalada (1989) as Caibaan Basalt  
-Balce and Cabantog (1998) as Caibaan Pillow Basalt
+Renamed_by: Cabantog and Escalada (1989) as Caibaan Basalt  Balce and Cabantog (1998) as Caibaan Pillow Basalt
 
 Correlation: Cancuevas Volcanics (Santos-Yñigo, 1951)
 

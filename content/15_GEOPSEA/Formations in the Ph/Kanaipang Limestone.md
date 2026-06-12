@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Coralline limestone with associated calcilutite and calcarenite

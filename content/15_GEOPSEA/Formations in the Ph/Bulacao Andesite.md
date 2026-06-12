@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Andesite flows and pyroclastic rocks

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Conglomerate
@@ -12,8 +10,6 @@ Age: Middle Miocene
 
 Named_by: Florendo (1987)
 
-Correlation: [Kabulao Conglomerate](Kabulao%20Conglomerate.md) in Bohol;  
-[Hubasan Conglomerate](Hubasan%20Conglomerate.md) in northwest Leyte
 
 ---
 

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Norite, olivine norite, gabbro, minor troctolite, anorthosite

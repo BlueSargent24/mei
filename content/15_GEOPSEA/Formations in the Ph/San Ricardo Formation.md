@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Conglomerate, sandstone and shale with occasional limestone interbeds

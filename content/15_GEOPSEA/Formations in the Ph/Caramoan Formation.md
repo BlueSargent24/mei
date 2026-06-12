@@ -1,9 +1,6 @@
-
-
 ---
 
-Lithology: _Tabgon Flysch_ – conglomerate, graywacke, shale, siltstone  
-_Ragas Olistostrome_ – sandstone, siltstone, shale matrix with blocks of limestone, andesites, wackes, siltstone
+Lithology: _Tabgon Flysch_ – conglomerate, graywacke, shale, siltstone  Ragas Olistostrome – sandstone, siltstone, shale matrix with blocks of limestone, andesites, wackes, siltstone
 
 Stratigraphic_relations: Not reported
 

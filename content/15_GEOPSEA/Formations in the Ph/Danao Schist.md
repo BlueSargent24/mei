@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: quartz schist, greenschist

@@ -1,15 +1,9 @@
 ---
-
 Lithology: Sandstone, shale, mudstone, conglomerate, limestone, basalt flows and dikes
-
 Stratigraphic_relations: Unconformable over Halcon Metamorphic Complex
-
 Distribution: Lasala River; Patrick, Amnay, Pagbahan and Alitungan, Talusungan, Pagbahan rivers, Mindoro
-
 Age: Late Eocene
-
 Named_by: Hashimoto (1981)
-
 ---
 
  

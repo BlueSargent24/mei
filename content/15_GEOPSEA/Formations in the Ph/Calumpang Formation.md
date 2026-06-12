@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Chert, conglomerate, sandstone, siltstone, mudstone, tuff, basaltic flow breccia

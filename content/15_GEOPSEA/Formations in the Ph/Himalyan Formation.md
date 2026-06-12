@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Graywacke, metaconglomerate, metavolcanics, mylonite, metadiabase

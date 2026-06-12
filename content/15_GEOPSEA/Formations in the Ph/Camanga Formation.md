@@ -1,12 +1,10 @@
-
-
 ---
 
 Lithology: Volcanic rocks; sandstone, shale, conglomerate; limestone
 
 Stratigraphic_relations: Unconformably overlies pelagic sedimentary rocks
 
-Distribution: Northern part of Zamboanga Peninsula: Dagum-Limanawan, Piccio-Piwan, Talinga-Podongan, Makasing, Nato-Kutangil.
+Distribution: Northern part of Zamboanga Peninsula Dagum-Limanawan, Piccio-Piwan, Talinga-Podongan, Makasing, Nato-Kutangil.
 
 Age: Early – Middle Miocene
 

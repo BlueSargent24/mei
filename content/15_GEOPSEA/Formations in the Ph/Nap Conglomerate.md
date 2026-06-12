@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Conglomerate, with minor siltstone, claystone, coal seams

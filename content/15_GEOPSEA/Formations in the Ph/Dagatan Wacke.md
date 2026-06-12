@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Feldspathic and volcanic wacke; conglomerate

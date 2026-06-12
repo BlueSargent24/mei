@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Slate, graywacke, basalt, andesite, dacite

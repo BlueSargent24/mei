@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Blocks of schists, ultramafic and other igneous rocks in matrix of serpentinized peridotite

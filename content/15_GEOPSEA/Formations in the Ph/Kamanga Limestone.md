@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Reef limestone

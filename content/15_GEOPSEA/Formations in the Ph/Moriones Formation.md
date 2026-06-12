@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Interbedded sandstone, shale, conglomerate with minor limestone; identified members are _Sansotero Limestone_ and _Malo Pungatan Limestone._

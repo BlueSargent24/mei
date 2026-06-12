@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Chert; minor mudstone, shale, sandstone and vitric tuff

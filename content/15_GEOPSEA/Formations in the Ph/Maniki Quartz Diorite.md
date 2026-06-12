@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Quartz diorite; diorite; granodiorite, andesites

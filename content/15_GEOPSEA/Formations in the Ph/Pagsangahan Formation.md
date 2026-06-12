@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Graywacke, conglomerate, pillow basalt, tuff, pelagic limestone, chert

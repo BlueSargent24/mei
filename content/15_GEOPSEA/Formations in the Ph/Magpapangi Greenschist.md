@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Actinolite schist, chlorite schist, antigorite schist

@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Sandstone with interbeds of sandy shale and conglomerate lenses

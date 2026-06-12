@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Serpentinized peridotite and serpentinite
@@ -13,8 +11,6 @@ Previous_name: Paly Ultramafics (MMAJ-JICA, 1990)
 Renamed_by: MGB (2004)
 
 Synonymy: Rizal Serpentinites (UNDP, 1985; BMG, 1987)
-
-Correlation: [Mt. Beaufort Ultramafics](Beaufort%20Ultramafic%20Complex.md) (Delos Santos, 1959)
 
 ---
 

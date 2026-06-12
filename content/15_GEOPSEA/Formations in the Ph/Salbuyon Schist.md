@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Piedmontite schist, quartzo-feldspathic schist, quartz-chlorite-sericite schist, amphibolite schist

@@ -1,23 +1,12 @@
-﻿
-
 ---
-
 Lithology: Conglomerate, tuffaceous sandstone and siltstone; tuff; volcanic breccia, pillow lava; mudstone, marl; limestone
-
 Stratigraphic_relations: Unconformable over the Escalante Formation
-
 Distribution: Malabago, San Carlos; east of Macasilao, north of Tigbao; West of Toboso; Paghumayan area, Negros Island
-
 Age: early Middle Miocene (Langhian)
-
-Thickness: 500 m (Corby and others, 1951): Maximum 1,500 m (Melendres and Barnes, 1957)
-
+Thickness: 500 m (Corby and others, 1951) Maximum 1,500 m (Melendres and Barnes, 1957)
 Previous_name: Malabago Shale and Conglomerate (Corby and others, 1951)
-
 Renamed_by: MGB (2004)
-
 Synonymy: Odeong and Tigbao formations (Melendres and Barnes, 1957); Fuentes Green Tuff (Caguiat, 1967)
-
 ---
 
  

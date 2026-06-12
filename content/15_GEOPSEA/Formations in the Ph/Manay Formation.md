@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Lower sandstone and upper limestone members

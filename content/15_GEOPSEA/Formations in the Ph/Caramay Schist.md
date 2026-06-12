@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Muscovite schist, graphite schist, quartzite

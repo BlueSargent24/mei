@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Calcarenite, calcirudite, biocalcarenite, calcisiltite

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Quartz diorite, hornblende-biotite diorite, minor granodiorite, gabbro and aplites

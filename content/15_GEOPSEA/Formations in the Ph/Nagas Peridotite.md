@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Peridotites, serpentinites
@@ -12,7 +10,7 @@ Age: Cretaceous
 
 Previous_Name: Nagas Ultramafics (Villamor and others, 1984)
 
-Re: n_amed by_: MGB (2004)
+Renamed by: MGB (2004)
 
 ---
 

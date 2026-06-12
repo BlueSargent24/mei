@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Sandstone, mudstone, pyroclastic rocks, basalt, andesite

@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Pyroclastic rocks, shale, basalt flows

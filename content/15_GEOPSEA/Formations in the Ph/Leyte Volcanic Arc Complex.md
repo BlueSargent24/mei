@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Andesitic volcanic cones and flows; minor basalt

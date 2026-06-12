@@ -1,17 +1,9 @@
-﻿
-
 ---
-
-Lithology: _S: andstone, shale, minor limestone, conglomerate, volcanic rocks.
-
+Lithology: Sandstone, shale, minor limestone, conglomerate, volcanic rocks.
 Stratigraphic_relations: Not reported
-
 Distribution: Mangabel Creek, Igaog River, Sumigod Creek, Sibuguey Peninsula
-
 Age: Eocene
-
 Named_by: Antonio (1962)
-
 ---
 
  

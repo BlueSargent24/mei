@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Clay, silt, gravely sand, tuffaceous silt

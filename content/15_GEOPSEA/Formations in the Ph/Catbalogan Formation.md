@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Marl, siltstone, sandstone, pebble conglomerate

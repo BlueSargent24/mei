@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Interlayered andesite, dacite and minor basalt flows intercalated with tuff and other pyroclastics containing andesite fragments

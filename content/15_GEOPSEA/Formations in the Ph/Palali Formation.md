@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Andesitic and dacitic flows and tuff breccias, basaltic lava, mudstone, sandstone and welded tuff
@@ -14,7 +12,6 @@ Thickness: 300 m
 
 Named_by: MMAJ-JICA (1977)
 
-Synonymy: [Natbang Formation](Natbang%20Formation.md)
 
 ---
 

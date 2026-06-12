@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Calcareous sandstones and mudstone

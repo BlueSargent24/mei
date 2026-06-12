@@ -1,9 +1,6 @@
-
-
 ---
 
-Lithology: _   : Lower member – conglomerate, sandstone, siltstone  
-Upper member – limestone, calcarenite, marl
+Lithology: Lower member – conglomerate, sandstone, siltstone  Upper member – limestone, calcarenite, marl
 
 Stratigraphic_relations: Unconformable over ophiolite; conformably overlain by the Sta. Cruz Formation
 

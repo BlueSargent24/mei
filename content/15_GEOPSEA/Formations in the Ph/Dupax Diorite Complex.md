@@ -1,5 +1,3 @@
-
-
 ---
 
 Lithology: Diorite and quartz diorite

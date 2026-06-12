@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Weakly metamorphosed sandstone, siltstone, mudstone, marble and volcanic flows
