@@ -8,7 +8,7 @@ Distribution: Baguio District
 
 Age: Late Miocene – Early Pliocene
 
-Thickness: > 100 m
+Thickness: 100 m
 
 Named_by: Smith and Eddingfield (1911)
 

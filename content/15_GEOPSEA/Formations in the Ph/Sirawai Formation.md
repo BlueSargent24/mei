@@ -1,13 +1,10 @@
-﻿
-
 ---
 
 Lithology: Conglomerate, sandstone, shale
 
 Stratigraphic_relations: Unconformable over the Tungauan Schist
 
-Distribution: Sirawai, Siocon, Vitali, Linguisan-Vitali ridgeline,  
-Panubigan Island, Zamboanga del Sur
+Distribution: Sirawai, Siocon, Vitali, Linguisan-Vitali ridgeline,  Panubigan Island, Zamboanga del Sur
 
 Thickness: ~ 2,000 m
 

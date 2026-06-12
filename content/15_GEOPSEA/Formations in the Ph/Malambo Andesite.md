@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Andesite flows, breccia

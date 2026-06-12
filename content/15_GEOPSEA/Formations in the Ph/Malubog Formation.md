@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Mudstone, shale, limestone, minor sandstone, conglomerate; coal stringers

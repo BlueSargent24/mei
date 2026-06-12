@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Sandstone, conglomerate, with minor dacitic tuff, ignimbrite

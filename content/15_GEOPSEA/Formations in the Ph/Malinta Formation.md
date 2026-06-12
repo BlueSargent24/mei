@@ -1,9 +1,6 @@
-﻿
-
 ---
 
-Lithology: Lower Pau Sandstone – sandstones with minor tuffaceous shale, conglomerates and lapilli tuff  
-Upper Aparri Gorge Sandstone – sandstones with shale stringers and conglomerate lenses
+Lithology: Lower Pau Sandstone – sandstones with minor tuffaceous shale, conglomerates and lapilli tuff  Upper Aparri Gorge Sandstone – sandstones with shale stringers and conglomerate lenses
 
 Stratigraphic_relations: Conformable over the Moriones Formation
 

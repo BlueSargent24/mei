@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Basalt, subordinate shale, siltstone, conglomerate and pyroclastic rocks

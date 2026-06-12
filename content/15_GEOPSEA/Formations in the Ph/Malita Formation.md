@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Volcanic and volcaniclastic rocks
