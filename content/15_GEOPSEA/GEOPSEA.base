@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.folder.contains("15_GEOPSEA")
+    - file.folder.contains("content/15_GEOPSEA")
 properties:
   file.backlinks:
     displayName: Grouping
