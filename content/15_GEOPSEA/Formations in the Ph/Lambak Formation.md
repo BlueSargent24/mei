@@ -1,5 +1,3 @@
-﻿
-
 ---
 
 Lithology: Tuffaceous shale, sandstone, conglomerate
@@ -10,7 +8,7 @@ Distribution: Lambak depression, Sta. Maria, Bulacan; Norzagaray, Bulacan
 
 Age: Late Miocene
 
-Thickness: > 1,000 m
+Thickness: 1,000 m
 
 Previous_name: Lambak Shales and Sandstones (Alvir, 1929)
 
